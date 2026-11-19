@@ -71,3 +71,27 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | integrare | make whole | |
 | tabula | table | |
 | tubus astrisequus | star-following tube | telescope |
+| finis | end | final cause; purpose |
+| adaequatus | adequate | scholastic: commensurate, entire |
+| comprehendere | comprehend | know exhaustively |
+| per se cognitum / notum | known through itself | self-evident |
+| evidentia | evidence | clearness to mind/senses |
+| probabilis / probabilitas | probable / probability | approvable opinion, not statistical |
+| influentia | influence | astrological |
+| sententia | opinion | bracket Latin; cf. opinio = opinion [opinio] |
+| opinio | opinion [opinio] | |
+| suspicio | suspicion | |
+| scopus | aim | |
+| effectum | effect | |
+| utilitas | utility | |
+| emolumentum | emolument | |
+| species (veritatis) | appearance | bracket Latin |
+| Logice | Logically | = by dialectical/probable disputation |
+| ingenium | wit | (see above) |
+| gratia | favour / leave / thanks | bracket Latin; White puns on it |
+| condere / conditor | found / founder | |
+| ratio (reddere rationem) | account | bracket Latin |
+| principium (logical) | principle | bracket Latin |
+| praeter naturam | beyond nature | |
+| demonstratio | demonstration | |
+| umbrae (Philosophicae) | shades | school groves |

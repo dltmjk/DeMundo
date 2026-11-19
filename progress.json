@@ -1,7 +1,11 @@
 {
-  "unit": "D1-N01",
+  "unit": "D1-N02",
   "part": 1,
-  "next_pdf_page": 12,
-  "completed": ["FM1", "FM2"],
-  "notes": "FM2 done (PDF pp. 7-11: Tabula figurarum pp. 7-8, Syllogus nodorum pp. 9-11). Dialogue I begins PDF p.12 = printed p.1 (offset +11 confirmed on p.13 = printed 2). D1-N01 (Occasio sermonis / Introductio) runs printed pp. 1-~9 (PDF 12-~20); nodus ii starts printed p. 9 per table (PDF ~20) - check where on the page. Table page numbers for all nodi are in translations/FM2.md. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/FM1.json)."
+  "next_pdf_page": 20,
+  "completed": [
+    "FM1",
+    "FM2",
+    "D1-N01"
+  ],
+  "notes": "D1-N01 done (PDF 12-20 = printed 1-9). D1-N02 'Mundum non esse infinitum' starts on PDF p. 20 (printed 9), about 2/3 down the page, at 'Ereu. Quoniam utrique sedit eadem voluntas' (margin 'Nodus II. Mundum non esse infinitum'). Its end is at printed p. 24 (PDF ~35), when nodus iii starts. That is about 15 printed pages, so split it into 2 parts of about 8 pages each, e.g. part 1 = printed 9 to about 17 (PDF 20 to about 28), ending at a speaker break. Offset +11 still holds at p. 9. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N01.json; rows mark printed page breaks as [p. n])."
 }
