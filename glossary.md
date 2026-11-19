@@ -237,3 +237,29 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | praesumpta opinio | presumed opinion | |
 | superstruere | build upon | |
 | permanare | flow through | |
+| lineae / motus / corpora simplicia | simple lines / motions / bodies | De caelo I.2 (D1-N07) |
+| incompositus / decompositus | uncompounded / decomposite | |
+| fluxus (puncti) | flux | generation of a line |
+| diametrus (of a figure) | diagonal [diametrum] | |
+| compositura | composition [compositura] | vs compositio |
+| velocitas / tarditas | speed / slowness | |
+| indoles | disposition [indolem] | bracket to keep apart from dispositio |
+| passio | passion [passione] | = property, proprium |
+| natura communis / particularis / magna | common / particular / great nature | |
+| privus | private [priva] | = proprius |
+| qualitates effectrices / susceptrices | effective / receptive | active/passive qualities |
+| tantum non | all but | |
+| quies (in puncto reflexionis) | rest | quies media, Phys. VIII.8 |
+| mora | delay | |
+| reflexio / reflectio | reflexion / reflection | both spellings printed |
+| signum (of motion) | mark [signum] | turning point |
+| individuum temporis | individual [individuum] of time | instant |
+| mobile | the mobile | thing moved |
+| cessio | yielding [cessionem] | |
+| molaris | millstone | |
+| anteambulo | forerunner | |
+| decalvare | make bald | |
+| status (adj.) | fixed [stato] | |
+| temperies | temperament [temperie] | |
+| mixtio / permutatio | mixtion / permutation | |
+| Dominicus Consalvus | Dominicus Consalvus [Domingo Gonsales] | Godwin, Man in the Moone |
