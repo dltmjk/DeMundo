@@ -1,0 +1,128 @@
+# De Mundo — Front matter 1
+
+*Latin title:* Titulus; Ad lectorem; Asphalio optimo viro et dulcissimo sodali  
+*English title:* Title page; To the reader; To Asphalius, the best of men and sweetest companion  
+*Pages:* PDF pp. 1–6 (unnumbered preliminaries; signatures ã ij – ã iij)
+
+## Title page (PDF p. 1)
+
+| Latin | English |
+|---|---|
+| DE MUNDO / DIALOGI TRES | ON THE WORLD [DE MUNDO] / THREE DIALOGUES |
+| QUIBUS | IN WHICH |
+| MATERIA, HOC EST, / QUANTITAS, NUMERUS, FIGURA, / Partes, partium qualitas et genera: | THE MATTER [MATERIA], THAT IS, / QUANTITY, NUMBER, FIGURE [FIGURA], / the parts, the quality [qualitas] of the parts, and the kinds [genera]: |
+| FORMA, HOC EST, / MAGNORUM CORPORUM MOTUS, / et motuum intentata hactenus Philosophis Origo: | THE FORM [FORMA], THAT IS, / THE MOTION OF THE GREAT BODIES, / and the Origin of the motions, unattempted hitherto by Philosophers: |
+| CAUSSAE, HOC EST, / MOVENS, EFFICIENS, GUBERNANS, / caussa Finalis, durationis quoque principium / et terminus: | THE CAUSES [CAUSSAE], THAT IS, / THE MOVING [CAUSE] [MOVENS], THE EFFICIENT [EFFICIENS], THE GOVERNING [GUBERNANS], / the Final cause, also the beginning [principium] of the duration / and the end [terminus]: |
+| ET TANDEM DEFINITIO, | AND FINALLY THE DEFINITION, |
+| Rationibus pure e natura depromptis aperiuntur, / concluduntur. | by reasons [rationibus] drawn purely from nature are opened up, / are concluded [concluduntur]. |
+| Authore THOMA Anglo, E generosa Albiorum / in Oriente Trinobantum prosapia oriundo. | By the author THOMAS, an Englishman, from the noble stock of the Whites [Albiorum] / in the East of the Trinobantes [Trinobantum] arising. |
+| [Printer's ornament] | [Printer's ornament] |
+| PARISIIS, / Apud DIONYSIUM MOREAU, via Iacobaea, / sub Salamandra. | AT PARIS, / At the house of DENIS MOREAU [Dionysium Moreau], in the Rue Saint-Jacques [via Iacobaea], / under [the sign of] the Salamander. |
+| M. DC. XLII. / CUM PRIVILEGIO REGI[S]. | 1642. / WITH PRIVILEGE OF THE KING. |
+
+## Ad lectorem — To the reader (PDF pp. 2–4)
+
+| Latin | English |
+|---|---|
+| AD LECTOREM. | TO THE READER. |
+| Quisquis es cui vacat, et libet in abortivum hoc Opusculum vultus mentisque figere obtutum, habes hic delineatam tibi, illius materiei effigiem, quam in Physica contemplatione praecipuam esse ambigere non est fas. | Whoever you are for whom there is leisure, and whom it pleases to fix upon this abortive [abortivum] little Work the gaze [obtutum] of face and of mind, you have here sketched out for you the likeness [effigiem] of that subject-matter [materiei], which in Physical contemplation [Physica contemplatione] to be the principal one it is not right [fas] to doubt. |
+| Eo ordine, ut sequentia (quantum fieri potuit) a praecedentibus penderent, quod scientiae proprium est. | In such an order, that the things following (as far as could be done) should depend on the preceding ones, which is proper [proprium] to science [scientiae]. |
+| Neque pendeant dumtaxat, sed et necessitatem trahant, quatenus hoc efficere divinitus concessum est. | Nor should they depend merely, but also draw necessity [necessitatem trahant], insofar as to effect this has been granted from on high [divinitus]. |
+| Forma operis Dialogistica est, quoniam et connexionis et parergorum inserendorum in ea liberior est facultas: et gratior, cum urgendae sunt plures deinceps super responsiunculas replicae, dictionis figura. | The form of the work is Dialogistic [Dialogistica], since both of connection [connexionis] and of by-works [parergorum] to be inserted, there is in it a freer faculty [facultas]: and [it is] a more pleasing figure of diction [dictionis figura], when many replies [replicae] are to be pressed in succession upon little answers [responsiunculas]. |
+| Sed quoniam intersecari Dialogos neque mos, neque ipsa sermonis lex permittit, Nodos commentus sum, quibus ad marginem additis aliqua distinctionis ratio non deesset. | But since neither custom nor the very law of conversation [sermonis] permits Dialogues to be cut across [intersecari], I have devised Knots [Nodos], by which, added at the margin, some manner [ratio] of division [distinctionis] should not be lacking. |
+| Eorum Syllogus summa eorum quae tractantur capita exhibet. | The Collection [Syllogus] of them displays the chief headings [summa … capita] of the things which are treated. |
+| Figuras aliquot et sphaeram desiderabat colloquium. | Some figures and a sphere the colloquy required [desiderabat]. |
+| Figuras itaque, tabella post Epistolas sita praebui. | The figures therefore I have supplied in a little table [tabella] placed after the Letters [Epistolas]. |
+| Sphaeram quoque voluminis tectorio insertilem cogitaram; sed ne argutior quam commodior exiret veritus petentibus reservavi. | A sphere also, insertable [insertilem] into the cover [tectorio] of the volume, I had planned [cogitaram]; but, having feared lest it should come out more ingenious [argutior] than more convenient [commodior], I have reserved it for those asking [petentibus]. |
+| Stylus incomptus est, quod pigeret me ipsi disciplinae imparem simul et rei et eloquio illaborare. | The style is unkempt [incomptus], because it irked me, unequal to the discipline [disciplinae] itself, to labour at [illaborare] both the matter [rei] and the eloquence at the same time. |
+| Tu tecum cogita si ipsum scriptorem tanto {?distinuit} hoc argumentum labore, neque tibi semel aut desidiose legendum esse, si mellis ex forti exeuntis dulcedinem percipere aves. | Do you consider with yourself: if this argument [argumentum] held back [distinuit = detinuit?] the writer himself with so much labour, that neither is it to be read by you once nor slothfully, if you long to perceive the sweetness of the honey going out from the strong [ex forti]. |
+| In nomen Iacobi Claytoni nascebatur, quem, sub Asphalii nomenclatura interlocutorem finxeram. | It was being born into [in] the name of James Clayton [Iacobi Claytoni], whom, under the naming [nomenclatura] of Asphalius, I had fashioned [finxeram] as an interlocutor. |
+| Sed quae nunciabant litterae mortuum, iam invenerunt: | But the letters which were announcing [him] dead, have now found [it]: |
+| Non decuit tamen quoniam candidissima illa anima a nostris tumultibus erat secreta, Officia amicitiae mutari. | It was not fitting, however, since that most candid [candidissima] soul had been set apart [secreta] from our tumults, that the Offices [Officia] of friendship be changed. |
+| Propterea quam feceram de privato meo consilio ad illum Epistolam in fronte operis habes. | Therefore the Letter which I had made, of my own private counsel [consilio], to him, you have at the front of the work. |
+| De utilitate argumenti malo ex Ovidio quam ex me habeas qui Fastorum primo sic canit: | Concerning the usefulness of the argument [argumenti] I prefer that you should have it from Ovid rather than from me, who in the first [book] of the Fasti sings thus: |
+
+## Ovid, Fasti I.297–306 (PDF p. 4) — verse, line by line
+
+| Latin | English |
+|---|---|
+| Faelices animae quibus haec cognoscere primis | Happy the souls to whom to know these things first |
+| Inque domos superas scandere cura fuit. | And into the houses above to climb was a care. |
+| Credibile est illos pariter vitiisque iocisque | Credible it is that they, than both vices and jests alike, |
+| Altius humanis exeruisse caput. | Higher than human things, have thrust out [their] head. |
+| Non Venus et Vinum sublimia pectora fregit | Not Venus and Wine broke [their] lofty breasts, |
+| Officiumve fori, militiaeve labor. | Or the duty [officium] of the forum, or the labour of soldiery. |
+| Non levis ambitio, perfusaque gloria fuco, | Not light ambition, and glory steeped in dye [fuco], |
+| Magnarumque fames sollicitavit opum. | And hunger of great riches solicited [them]. |
+| Admovere oculis distantia sidera nostris, | They moved the distant stars near to our eyes, |
+| Aetheraque ingenio supposuere suo. | And the aether to their wit [ingenio] they placed beneath. |
+| Sic petitur coelum, non ut ferat Ossan Olympus | Thus is the heaven sought — not so that Olympus should bear Ossa, |
+| Summaque Peliacus sidera tangat apex. | And the Pelian peak touch the highest stars. |
+
+## Dedicatory letter (PDF pp. 5–6)
+
+| Latin | English |
+|---|---|
+| ASPHALIO OPTIMO VIRO / et dulcissimo sodali. | TO ASPHALIUS, THE BEST OF MEN / and sweetest companion [sodali]. |
+| χαίρειν καὶ εὐπαθεῖν. | [Greek:] To rejoice and to fare well [chairein kai eupathein]. |
+| Quoi dono illepidum et rudem libellum, | To whom do I give the unwitty [illepidum] and rough little book, |
+| Arenti mage pumice impolitum? | By dry pumice rather [mage] unpolished? |
+| Asphali tibi, namque tu solebas | To you, Asphalius; for you were wont |
+| Meas esse aliquid putare nugas. | To think my trifles [nugas] to be something. |
+| Habes primam et praecipuam facti originem. | You have the first and chief origin of the deed [facti]. |
+| Habet enim natura ut consentientes probemus, dissimiles non adeo: neque mihi cornea fibra est. | For nature has it that we approve those agreeing [consentientes], the unlike not so much: nor is there in me a horny fibre [cornea fibra]. |
+| Accipe aliam. | Receive another [origin]. |
+| Longa Dialogorum Galilaei de systemate conscriptorum meditatione conceptum erat hoc opus, et dolebat mihi ubi Minerva Iovi, neque aderat cum securi Vulcanus: | By a long meditation on the Dialogues of Galileo written about the system [de systemate] this work had been conceived, and it ached for me where Minerva [ached] for Jove, nor was Vulcan present with the axe: |
+| Propterea illud expui quale vides. | Therefore I spat it out such as you see. |
+| Si Deorum maiorum altaribus appendere voluissem, lambendus, fingendus, comendus erat mihi ursus meus: At ego deses eram. | If I had wished to hang [it] up at the altars of the greater Gods, my bear was to be licked, shaped, combed by me: But I was idle [deses]. |
+| Ideo cum tu habes, cui novi rationem nudam et incomptam esse commendatam: cui, cum causatus fuerim pigritiam, non veniam modo sed et laudem referam: cui possim, tu, dicere facie ad faciem; neque necesse sit praeter naturam et latinitatem tertiae personae velum obtendere. | Therefore [it is] with you [that] you have [it] — you, to whom I know reason [rationem] naked and unkempt to be commended: with whom [cui], when I shall have pleaded [causatus fuerim] laziness, I shall carry off [referam] not pardon only but also praise: to whom I can, "you", speak face to face; nor would it be necessary, beyond [praeter] nature and Latinity, to draw over the veil of a third person. |
+| Lege itaque sed segniter in illo tuo omnium suavitatum scrinio, a quo cortina solem defendit. | Read therefore, but sluggishly [segniter], in that your casket [scrinio] of all sweetnesses, from which a curtain [cortina] wards off the sun. |
+| Vive, vale, quiesce. | Live, fare well, rest [quiesce]. |
+
+## Words and phrases with alternative or special meanings
+
+- ***De mundo*** — rendered “On the world”. mundus = the ordered universe / cosmos as a whole, not only the earth (cf. Aristotle/pseudo-Aristotle Peri kosmou, Latin 'De mundo'). Title genre; White treats the whole corporeal universe under the four Aristotelian causes.
+- ***materia / forma / caussae (movens, efficiens, gubernans, finalis)*** — rendered “matter / form / causes (moving, efficient, governing, final)”. Aristotelian-scholastic fourfold cause; 'forma mundi' is unusually identified with the motion of the great bodies. Structures the three dialogues: I matter, II form = motion, III causes.
+- ***figura*** — rendered “figure”. shape (geometrical figure) vs. figure of speech; in 'dictionis figura' it is the rhetorical sense. Kept as 'figure' throughout for consistency; sense distinguished by context.
+- ***qualitas*** — rendered “quality”. scholastic category of quality (hot, cold, etc.) vs. general character. Aristotelian category; partium qualitates = the elemental qualities of the parts of the world.
+- ***genera*** — rendered “kinds”. genera in the logical sense (genus/species) vs. simply 'sorts'. Here likely the kinds of bodies/elements.
+- ***principium / terminus (durationis)*** — rendered “beginning / end”. principium = principle or starting-point; terminus = limit, end-point. Dialogue III asks whether the world began and whether it will end.
+- ***rationes pure e natura depromptae*** — rendered “reasons drawn purely from nature”. ratio = argument, reason, account, method; 'pure e natura' = by natural reason alone, without appeal to revelation. Signals White's (and Digby's) programme of demonstrative natural philosophy.
+- ***concluduntur*** — rendered “are concluded”. logically demonstrated / brought to a conclusion; also 'enclosed'. Demonstrative-syllogistic register.
+- ***Albiorum … Trinobantum*** — rendered “of the Whites … of the Trinobantes”. Albius = Latinised 'White'; Trinobantes = ancient British tribe of Essex. Author's family: the Whites of Hutton, Essex.
+- ***materiei effigiem*** — rendered “likeness of the subject-matter”. materies can mean physical matter or the subject of a work. Pun: the book's subject is literally matter (materia mundi).
+- ***Physica contemplatio*** — rendered “Physical contemplation”. natural philosophy as theoretical science (theoria). Aristotelian division of speculative sciences.
+- ***scientia; necessitatem trahant*** — rendered “science; draw necessity”. scientia = demonstrative knowledge (Aristotle's epistêmê) rather than modern 'science'. White claims an order in which conclusions follow necessarily from premises.
+- ***Dialogistica*** — rendered “Dialogistic”. of the dialogue form. Rare adjective.
+- ***parerga*** — rendered “by-works”. digressions, incidental matters (Greek parergon).
+- ***replicae / responsiunculae*** — rendered “replies / little answers”. scholastic disputation terms: replica = rejoinder. Disputational register.
+- ***Nodi*** — rendered “Knots”. nodus = knot, joint, node; here a section-marker in the margin. White's own term for chapter-like divisions; kept as 'Knot' (Nodus) throughout.
+- ***Syllogus*** — rendered “Collection”. Greek syllogos = gathering, collection; i.e. the table of nodi. Not 'syllogism'; the table is titled 'Syllogus nodorum'.
+- ***sphaera*** — rendered “sphere”. an armillary sphere / model globe. White planned a cut-out sphere to insert in the binding.
+- ***argutior quam commodior*** — rendered “more ingenious than more convenient”. argutus = clever, subtle, over-elaborate.
+- ***illaborare*** — rendered “to labour at”. rare verb: to work upon, elaborate.
+- ***distinuit*** — rendered “held back”. printed form; probably for detinuit ('detained, occupied') or distinere ('keep apart'). Uncertain reading.
+- ***mellis ex forti exeuntis dulcedinem*** — rendered “the sweetness of the honey going out from the strong”. Judges 14:14, Samson's riddle 'de forti egressa est dulcedo'. Biblical allusion: sweetness from a hard/strong source.
+- ***Iacobi Claytoni / Asphalius*** — rendered “James Clayton / Asphalius”. Asphalius from Greek asphalês, 'safe, steadfast'. The interlocutor Asphalius represents Clayton, who died before publication.
+- ***Officia amicitiae*** — rendered “the Offices of friendship”. officium = duty, service. Ciceronian vocabulary (De officiis, De amicitia).
+- ***candidissima anima*** — rendered “most candid soul”. candidus = bright, pure, sincere.
+- ***Fasti I.297–306*** — rendered “—”. Ovid's praise of the first astronomers. Classical apology for astronomy; Ossa/Olympus/Pelion = the Giants' assault on heaven.
+- ***fucus*** — rendered “dye”. rouge, cosmetic; hence pretence. Glory 'steeped in dye' = counterfeit glory.
+- ***Quoi dono … nugas*** — rendered “To whom do I give … trifles”. parody of Catullus 1 ('Cui dono lepidum novum libellum …'), inverting lepidum to illepidum and expolitum to impolitum. Classical allusion; Asphalius takes the place of Cornelius Nepos.
+- ***χαίρειν καὶ εὐπαθεῖν*** — rendered “to rejoice and to fare well”. Greek epistolary greeting; eupathein = to enjoy oneself, be well off.
+- ***cornea fibra*** — rendered “horny fibre”. Persius, Satires 1.47: 'non enim mihi cornea fibra est' — I am not insensitive to praise. Classical allusion.
+- ***ubi Minerva Iovi*** — rendered “where Minerva [ached] for Jove”. i.e. in the head: Minerva born from Jupiter's head, split open by Vulcan's axe. The book's 'birth' from the head without a midwife.
+- ***Dialogi Galilaei de systemate*** — rendered “the Dialogues of Galileo about the system”. Galileo's Dialogo sopra i due massimi sistemi (1632), Latin trans. 'Systema cosmicum' (1635). White's work is a response to Galileo.
+- ***lambendus … ursus*** — rendered “my bear was to be licked”. proverbial: the she-bear licks her shapeless cubs into form (Pliny NH 8.126; Donatus' Life of Virgil). Image of unpolished composition.
+- ***ratio nuda et incompta*** — rendered “reason naked and unkempt”. ratio = reason / argument. Plain argument without ornament.
+- ***causatus fuerim*** — rendered “I shall have pleaded”. causari = to plead as an excuse.
+- ***tertiae personae velum*** — rendered “the veil of a third person”. i.e. addressing someone in the third person (as in formal dedications) rather than 'tu'.
+- ***scrinium*** — rendered “casket”. writing-case, book-box; possibly his study or (after his death) his tomb. With 'cortina solem defendit' and 'quiesce' there may be a funerary double sense.
+- ***quiesce*** — rendered “rest”. be at rest / rest in peace. Read after Clayton's death, the farewell has a funerary sense.
+
+## Translator's notes
+
+- Conventions: long s → s; ligatures æ/œ → ae/oe; ã (macron) expanded; u/v and i/j kept as printed except that consonantal u is normalised to v throughout this unit for readability (e.g. 'vacat', 'divinitus'); printers' ornaments and the Google Books watermark are omitted; signature marks (ã ij, ã iij) noted in the page range only. Square brackets in the English mark words supplied for sense or the Latin of a rendered term.
+- Uncertain readings: (1) 'distinuit' (Ad lectorem) — printed thus, probably for 'detinuit'; rendered 'held back'. (2) 'Sed quae nunciabant litterae mortuum, iam invenerunt' — the object of 'invenerunt' is unexpressed; most likely the letters announcing Clayton's death have now reached the author (or found the work already printed under his name). (3) 'Ideo cum tu habes, cui …' (dedication) — syntax is elliptical; 'cum' may be the preposition ('with you') or a misprint; the translation keeps the ambiguity. (4) Title page 'CUM PRIVILEGIO REGI.' — final S not printed or cropped; read REGIS.
+- Page-range correction: PDF page 7 is not blank — it carries the 'Tabula figurarum' (Figures I–II); PDF p. 8 has Figures III–V; the Syllogus nodorum follows on PDF pp. 10–11 (approx.). FM2 should therefore start at PDF p. 7. Recorded in progress.json.
+- Verification pass: every Latin sentence was re-read against the page images and the English. 5 corrections made: (1) Ad lectorem, Dialogistica sentence — removed an added 'there'; (2) Ovid l. 3 — 'vitiisque iocisque' is ablative of comparison with 'altius' (above vices and jests), not 'from'; (3) Ovid l. 4 — 'exeruisse' is perfect infinitive, 'have thrust out' not 'had'; (4) dedication — dative 'cui' rendered 'with whom' (not 'from whom') and 'referam' as 'I shall carry off'; (5) dedication — removed an added '[it]' after 'draw over'. Transcription re-checked against the images; no transcription changes.

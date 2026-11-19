@@ -1,0 +1,7 @@
+{
+  "unit": "FM2",
+  "part": 1,
+  "next_pdf_page": 7,
+  "completed": ["FM1"],
+  "notes": "FM1 done (PDF pp. 1-6). PDF p.7 is NOT blank: it has the Tabula figurarum (Figs I-II); p.8 Figs III-V; p.9 blank(?); Syllogus nodorum on approx. PDF pp.10-11 (Dialogue III list may be on p.11/12). FM2 should cover PDF pp. 7-~12; check. Dialogus primus begins around PDF p.12-13 (printed p.1). Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/FM1.json)."
+}
