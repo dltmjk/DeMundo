@@ -1,7 +1,7 @@
 {
-  "unit": "FM2",
+  "unit": "D1-N01",
   "part": 1,
-  "next_pdf_page": 7,
-  "completed": ["FM1"],
-  "notes": "FM1 done (PDF pp. 1-6). PDF p.7 is NOT blank: it has the Tabula figurarum (Figs I-II); p.8 Figs III-V; p.9 blank(?); Syllogus nodorum on approx. PDF pp.10-11 (Dialogue III list may be on p.11/12). FM2 should cover PDF pp. 7-~12; check. Dialogus primus begins around PDF p.12-13 (printed p.1). Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/FM1.json)."
+  "next_pdf_page": 12,
+  "completed": ["FM1", "FM2"],
+  "notes": "FM2 done (PDF pp. 7-11: Tabula figurarum pp. 7-8, Syllogus nodorum pp. 9-11). Dialogue I begins PDF p.12 = printed p.1 (offset +11 confirmed on p.13 = printed 2). D1-N01 (Occasio sermonis / Introductio) runs printed pp. 1-~9 (PDF 12-~20); nodus ii starts printed p. 9 per table (PDF ~20) - check where on the page. Table page numbers for all nodi are in translations/FM2.md. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/FM1.json)."
 }

@@ -48,3 +48,26 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | aether | aether | |
 | coelum / caelum | heaven | |
 | sidus, sidera | star, stars | |
+| locus | place | Aristotelian place |
+| orbis, orbes (coelestes) | orb, orbs | celestial spheres |
+| demonstratio | demonstration | |
+| individuum | individual | numerically one thing |
+| tellus | earth [tellus] | bracket to distinguish from terra |
+| terra | earth [terra] | |
+| aestus (maris) | tide | |
+| motus localis | local motion | |
+| angulus contingentiae | angle of contact | horn angle |
+| suppositio | supposition | |
+| ens a se | being from itself | |
+| condere | found | of God creating |
+| creare / creabilis | create / creatable | |
+| fatum | fate | |
+| liberum arbitrium | free choice | |
+| repugnare | be repugnant to | |
+| beatitudo | beatitude | |
+| providentia | providence | |
+| casus | chance | |
+| plures / plura | more [than one] | plurality |
+| integrare | make whole | |
+| tabula | table | |
+| tubus astrisequus | star-following tube | telescope |
