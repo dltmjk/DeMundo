@@ -1,13 +1,14 @@
 {
-  "unit": "D1-N04",
+  "unit": "D1-N05",
   "part": 1,
-  "next_pdf_page": 43,
+  "next_pdf_page": 48,
   "completed": [
     "FM1",
     "FM2",
     "D1-N01",
     "D1-N02",
-    "D1-N03"
+    "D1-N03",
+    "D1-N04"
   ],
-  "notes": "D1-N03 done (PDF 35-43 = pp. 24-32, one part). D1-N04 'De loci immobilitate' starts on PDF 43 (printed 32), at 'Ereu. Neque ego memoriae vitio sed beneficio sententiam illam innominatam praetermisi' (margin 'Nodus IV. De loci immobilitate'). Nodus v starts printed p. 38 (PDF ~49) per FM2, so D1-N04 (pp. 32-38) fits in one part. Offset +11 holds at p. 32. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N03.json)."
+  "notes": "D1-N04 done (PDF 43-48 = pp. 32-37, one part). D1-N05 'Substantiam aliquam liquidam esse in Coelis' starts at the foot of PDF 48 (printed 37), at 'Ereu. Ast ego tibi hoc polliceor si ex orbibus omne liquidum dempseris' (margin 'Nodus V. Substantiam aliquam ...'), although FM2's table says p. 38. Nodus vi starts printed p. 44 (PDF ~55) per FM2; check the margin. Offset +11 holds at p. 37. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N04.json)."
 }

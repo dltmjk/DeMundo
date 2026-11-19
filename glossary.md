@@ -171,3 +171,21 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | dimensiones subsistentes | subsistent dimensions | Philoponus |
 | dissitus | set apart | |
 | disparari | be separated | |
+| superficies | surface | Aristotelian place = surface of the surrounding body (D1-N04) |
+| ab extrinseco | from outside | extrinsic denomination |
+| consistentia | consistency | standing, stability |
+| vox, voces | word, words | logical vox |
+| complexum | complex | complex term |
+| situs | site | |
+| quoad nos | as regards us | |
+| translatio (vocis) | transference | metaphor |
+| proprie / proprietas | properly / propriety | vs translatio |
+| substantiae separatae | separated substances | |
+| aequivocatio ex consilio | equivocation from deliberation | Boethian a consilio |
+| sententiam ferre | pass sentence | |
+| ingenium (of a thing) | character | for persons keep 'wit' |
+| indoles | dispositions | |
+| latio | carriage | Aristotelian φορά |
+| corpora minima | smallest bodies | |
+| volutatio | rolling | |
+| Rumus | Rumon | old name of the Tiber |
