@@ -263,3 +263,16 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | temperies | temperament [temperie] | |
 | mixtio / permutatio | mixtion / permutation | |
 | Dominicus Consalvus | Dominicus Consalvus [Domingo Gonsales] | Godwin, Man in the Moone |
+| nasci / denasci | be born / un-born | archaic denasci = perish (D1-N08) |
+| experimentum | experiment | = experience, observation |
+| rarum et densum (primae differentiae) | rare and dense (first differences) | Digby's division of quantity |
+| pars potestativa | potestative part | virtual part of a mixt |
+| scissilis / scindere per contradictionem | cuttable / cut by contradiction | dichotomous division |
+| Ζωόφυτα | Zoophytes | |
+| obstetricari | act as midwife | |
+| status separationis | state of separation | separated soul |
+| libellus de immortalitate animae | little book on the immortality of the soul | Digby, Two Treatises (1644) |
+| lunicolae | Moon-dwellers | |
+| latitudo (declinationis) | breadth | not geographical latitude |
+| nostras | of our country / ours [nostratem] | |
+| reprehendere (dictum) | correct | |

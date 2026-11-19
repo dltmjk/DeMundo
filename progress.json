@@ -1,7 +1,7 @@
 {
   "unit": "D1-N08",
-  "part": 1,
-  "next_pdf_page": 66,
+  "part": 2,
+  "next_pdf_page": 76,
   "completed": [
     "FM1",
     "FM2",
@@ -13,5 +13,5 @@
     "D1-N06",
     "D1-N07"
   ],
-  "notes": "D1-N07 done (PDF 58-66 = pp. 47-55, one part). D1-N08 'Corpora coelestia esse nostris analoga' (margin: 'In Coelis esse corpora Analoga nostris') starts on p. 55 (PDF 66) at 'Andab. Ergo te demonstravisse dicis' (margin 'Nodus VIII.'). FM2 gives nodus ix's page; check it. Offset +11 holds at p. 55. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N07.json)."
+  "notes": "D1-N08 part 1 done (PDF 66-76 = pp. 55-65). Part 2 starts on p. 65 (PDF 76) at 'Andab. Ohe, manum de tabula, Ereuni' and runs to the start of nodus ix (FM2: p. 69 = PDF 80; check the margin). Offset +11 holds at p. 65. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N08-p1.json)."
 }
