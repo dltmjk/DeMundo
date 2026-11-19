@@ -1,14 +1,15 @@
 {
-  "unit": "D1-N05",
+  "unit": "D1-N06",
   "part": 1,
-  "next_pdf_page": 48,
+  "next_pdf_page": 55,
   "completed": [
     "FM1",
     "FM2",
     "D1-N01",
     "D1-N02",
     "D1-N03",
-    "D1-N04"
+    "D1-N04",
+    "D1-N05"
   ],
-  "notes": "D1-N04 done (PDF 43-48 = pp. 32-37, one part). D1-N05 'Substantiam aliquam liquidam esse in Coelis' starts at the foot of PDF 48 (printed 37), at 'Ereu. Ast ego tibi hoc polliceor si ex orbibus omne liquidum dempseris' (margin 'Nodus V. Substantiam aliquam ...'), although FM2's table says p. 38. Nodus vi starts printed p. 44 (PDF ~55) per FM2; check the margin. Offset +11 holds at p. 37. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N04.json)."
+  "notes": "D1-N05 done (PDF 48-55 = pp. 37-44, one part). D1-N06 'Unde invaluerit de orbibus coelestibus opinio' starts on p. 44 (PDF 55) at 'Asphal. Etiam hoc, Ereuni, nobis aperi' (margin 'Nodus VI.'), matching FM2. Check FM2 for where nodus vii starts. Offset +11 holds at p. 44. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N05.json)."
 }

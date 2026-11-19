@@ -189,3 +189,29 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | corpora minima | smallest bodies | |
 | volutatio | rolling | |
 | Rumus | Rumon | old name of the Tiber |
+| statarius / excursor | stationary / runners [skirmishers] | military image (D1-N05) |
+| callere | be versed in | |
+| affirmata / dicta | things affirmed / things said | predicates |
+| denominatio | denomination | extrinsic denomination |
+| respectus | respect | = relatio |
+| locare / locatum | place / [thing] placed | |
+| deteri | be rubbed away | |
+| extrinsece | extrinsically | |
+| inconsequentia | inconsequence | non sequitur |
+| fidem irritare | make void a pledge | |
+| Coryphaei | Coryphaei | leading figures |
+| Coelum Empyreum | Empyrean Heaven | |
+| homogeneus | homogeneous | |
+| usurpare | use | |
+| institutum | purpose | |
+| circumstantia | [things] standing around | |
+| appetitus (materiae) | appetite | |
+| mundus elementaris | elementary world | sublunary |
+| aptum natum | apt by nature | |
+| astruere | build up | establish |
+| suffragium | vote | |
+| signabilis / separabilis | signable / separable | cf. designabilis |
+| paeana canere | sing the paean | |
+| ulna | ell | |
+| passibilitas | passibility | |
+| quantitas rationis / rei | quantity of reason / of the thing | ens rationis vs reale |
