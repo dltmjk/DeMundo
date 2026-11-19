@@ -9,5 +9,5 @@
     "D1-N02",
     "D1-N03"
   ],
-  "notes": "D1-N03 done (PDF 35-43 = pp. 24-32, one part). D1-N04 'De loci immobilitate' starts on PDF 43 (printed 32), at 'Ereu. Neque ego memoriae vitio sed beneficio sententiam illam innominatam praetermisi' (margin 'Nodus IV. De loci immobilitate'). Check FM2 table for start of nodus v to size parts. Offset +11 holds at p. 32. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N03.json)."
+  "notes": "D1-N03 done (PDF 35-43 = pp. 24-32, one part). D1-N04 'De loci immobilitate' starts on PDF 43 (printed 32), at 'Ereu. Neque ego memoriae vitio sed beneficio sententiam illam innominatam praetermisi' (margin 'Nodus IV. De loci immobilitate'). Nodus v starts printed p. 38 (PDF ~49) per FM2, so D1-N04 (pp. 32-38) fits in one part. Offset +11 holds at p. 32. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N03.json)."
 }
