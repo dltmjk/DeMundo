@@ -1,11 +1,11 @@
 {
   "unit": "D1-N02",
-  "part": 1,
-  "next_pdf_page": 20,
+  "part": 2,
+  "next_pdf_page": 28,
   "completed": [
     "FM1",
     "FM2",
     "D1-N01"
   ],
-  "notes": "D1-N01 done (PDF 12-20 = printed 1-9). D1-N02 'Mundum non esse infinitum' starts on PDF p. 20 (printed 9), about 2/3 down the page, at 'Ereu. Quoniam utrique sedit eadem voluntas' (margin 'Nodus II. Mundum non esse infinitum'). Its end is at printed p. 24 (PDF ~35), when nodus iii starts. That is about 15 printed pages, so split it into 2 parts of about 8 pages each, e.g. part 1 = printed 9 to about 17 (PDF 20 to about 28), ending at a speaker break. Offset +11 still holds at p. 9. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N01.json; rows mark printed page breaks as [p. n])."
+  "notes": "D1-N02 part 1 done (PDF 20-28 = printed 9-17, to Ereunius' '...impossibilitatem involvat' near top of p. 17). Part 2 starts PDF 28 (printed 17) at 'Andab. Non tam facile quam credis confectum est negotium' (margin 'Argumenta pro infinito solvuntur') and runs to the start of nodus iii at printed p. 24 (PDF ~35); check the table in FM2 and the margin. Offset +11 holds at p. 17. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N02-p1.json; rows mark printed page breaks as [p. n]). When part 2 is done add 'D1-N02' to completed and move to D1-N03."
 }

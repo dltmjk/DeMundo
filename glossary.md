@@ -95,3 +95,28 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | praeter naturam | beyond nature | |
 | demonstratio | demonstration | |
 | umbrae (Philosophicae) | shades | school groves |
+| infinitum / infinitas | the infinite / infinity [infinitas] | D1-N02 |
+| passus / pes / digitus / palmus / milliare | pace / foot / finger / palm / mile | units, literal |
+| designare / designabilis / signabilis | designate / designable / signable | mark off as *this* part |
+| determinate / indeterminate | determinately / indeterminately | |
+| in communi | in common | |
+| universaliter / universim | universally / universally [universim] | |
+| particulariter | particularly | |
+| singularis / singulariter / singulatim | singular / singly / singly [singulatim] | |
+| speciatim | specifically | |
+| descensus ad singularia | descent to singulars | supposition theory |
+| antecedens | antecedent | |
+| sequela | consequence | |
+| thesis / hypothesis | thesis / hypothesis | general question vs particular case (rhetoric) |
+| actu / in potentia | in act / in potency | |
+| Ens / unum | Being / One | transcendentals |
+| quantum | a quantum | thing having quantity |
+| competere | belong | |
+| dispositio | disposition | |
+| distare / abesse / absistere / dissidere | be distant / be away / stand off / stand apart | kept distinct |
+| conclave | chamber | |
+| proportio | proportion | |
+| propositio | proposition | |
+| materia (propositionis) | matter [materia] | logical matter vs form |
+| frigidus | cold | = lame (of an argument) |
+| trutina | balance | |
