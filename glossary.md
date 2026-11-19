@@ -142,3 +142,32 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | impugnatio / impugnare | attack | |
 | facessere negotium | make trouble | |
 | condere (responsa) | compose [condere] | non-theological sense |
+| intermundia | inter-worlds | Epicurean μετακόσμια (D1-N03) |
+| autumare | declare | archaic |
+| impraesentiarum | at present | archaic |
+| labes | stain | |
+| ambigere | waver | |
+| spatium imaginarium | imaginary space | scholastic extramundane space |
+| ubicatio | ubication | scholastic mode of 'where' |
+| sortiri / sortilegium | obtain / lot-drawing | |
+| puris putis | pure, mere | archaic doublet |
+| intentio | intention | notion/concept |
+| ambiens / vas immobile | something surrounding / immobile vessel | Aristotle Phys. IV.4 |
+| decem genera | ten kinds | categories |
+| effata | pronouncements | |
+| tralatitius | transferred | or customary; bracket |
+| intervallum (medium) | interval (in the middle) | |
+| interiectio / interiectum | throwing-between / thrown between | |
+| remotio / approximatio / coniunctio | removal / approximation / conjunction | |
+| contiguus / contiguitas / vicinia | contiguous / contiguity / neighbourhood | |
+| proximus | next | |
+| conspirare | conspire | |
+| quanti (gen. of quantum) | of [the] quantum | |
+| vacuum / non dari | vacuum / is not given | dari = exist |
+| rarum / densum / raritas | rare / dense / rarity | |
+| complexio | complexion | |
+| habitudo | habitude | relation |
+| subingressus | entering-under | |
+| dimensiones subsistentes | subsistent dimensions | Philoponus |
+| dissitus | set apart | |
+| disparari | be separated | |
