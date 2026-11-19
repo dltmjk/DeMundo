@@ -215,3 +215,25 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | ulna | ell | |
 | passibilitas | passibility | |
 | quantitas rationis / rei | quantity of reason / of the thing | ens rationis vs reale |
+| invalescere | grow strong | prevail (D1-N06) |
+| Philosophiae Princeps | Prince of Philosophy | Aristotle |
+| Ethnici / Mauri | Heathens / Moors | pagans / Arab philosophers |
+| paralogismus | Paralogism | |
+| contagio | contagion | |
+| spectatissimus | most regarded | |
+| eo nomine | on that account | |
+| obfirmare | make fast | |
+| momentum | moment | importance |
+| posthabere | set behind | |
+| stabilimentum | stabiliment | |
+| postulatum | postulate | astronomers' hypothesis |
+| numen | divinity | |
+| excentrici / epicycli / deferre | Excentrics / Epicycles / carry | Ptolemaic |
+| carceres | barriers | racecourse gates / prisons |
+| tribus (philosophorum) | tribes | schools |
+| obsignatus | sealed | |
+| parentes (Christianorum) | parents | = Church Fathers |
+| Coeli immortalitas | immortality of the Heaven | incorruptibility |
+| praesumpta opinio | presumed opinion | |
+| superstruere | build upon | |
+| permanare | flow through | |

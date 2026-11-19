@@ -1,7 +1,7 @@
 {
-  "unit": "D1-N06",
+  "unit": "D1-N07",
   "part": 1,
-  "next_pdf_page": 55,
+  "next_pdf_page": 58,
   "completed": [
     "FM1",
     "FM2",
@@ -9,7 +9,8 @@
     "D1-N02",
     "D1-N03",
     "D1-N04",
-    "D1-N05"
+    "D1-N05",
+    "D1-N06"
   ],
-  "notes": "D1-N05 done (PDF 48-55 = pp. 37-44, one part). D1-N06 'Unde invaluerit de orbibus coelestibus opinio' starts on p. 44 (PDF 55) at 'Asphal. Etiam hoc, Ereuni, nobis aperi' (margin 'Nodus VI.'), matching FM2. Check FM2 for where nodus vii starts. Offset +11 holds at p. 44. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N05.json)."
+  "notes": "D1-N06 done (PDF 55-58 = pp. 44-47, one part). D1-N07 'Demonstratio Aristotelis de natura Coeli' (margin: '...pro Immortalitate Coeli') starts on p. 47 (PDF 58) at 'Asphal. At nisi quicquam praefers' (margin 'Nodus VII.'). FM2 gives nodus viii's page; check it. Offset +11 holds at p. 47. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N06.json)."
 }
