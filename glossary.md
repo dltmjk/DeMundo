@@ -120,3 +120,25 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | materia (propositionis) | matter [materia] | logical matter vs form |
 | frigidus | cold | = lame (of an argument) |
 | trutina | balance | |
+| assumere / assumptio | assume / assumption | minor premise (D1-N02 p2) |
+| subsumere / subiicere | subsume / subjoin | syllogistic |
+| inconveniens | inconvenient [thing] | = absurdity |
+| propositio identica | identical proposition | tautology |
+| status | state | |
+| potentia / actus | potency / act | cf. actu / in potentia |
+| modus | mode | |
+| explicatio / explicate | explication / explicitly | reading; unfolded (vs complicated) |
+| notitia | notice | act or item of cognition |
+| intelligentiae | intelligences | angels |
+| substantiae abstractae / secretae | abstract / secret substances | separated substances |
+| disertus / diserte | distinct / expressly | |
+| inexistere | be in [it] [inexistat] | |
+| valere | be equivalent to | |
+| obiectiva existentia | objective existence | esse obiectivum |
+| entitativus | entitative | |
+| exuperatio / eminentia | exuperance / eminence | |
+| pertransire / transitus | pass through / transit | |
+| suasio | persuasion | |
+| impugnatio / impugnare | attack | |
+| facessere negotium | make trouble | |
+| condere (responsa) | compose [condere] | non-theological sense |

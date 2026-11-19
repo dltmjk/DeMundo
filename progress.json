@@ -1,11 +1,12 @@
 {
-  "unit": "D1-N02",
-  "part": 2,
-  "next_pdf_page": 28,
+  "unit": "D1-N03",
+  "part": 1,
+  "next_pdf_page": 35,
   "completed": [
     "FM1",
     "FM2",
-    "D1-N01"
+    "D1-N01",
+    "D1-N02"
   ],
-  "notes": "D1-N02 part 1 done (PDF 20-28 = printed 9-17, to Ereunius' '...impossibilitatem involvat' near top of p. 17). Part 2 starts PDF 28 (printed 17) at 'Andab. Non tam facile quam credis confectum est negotium' (margin 'Argumenta pro infinito solvuntur') and runs to the start of nodus iii at printed p. 24 (PDF ~35); check the table in FM2 and the margin. Offset +11 holds at p. 17. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N02-p1.json; rows mark printed page breaks as [p. n]). When part 2 is done add 'D1-N02' to completed and move to D1-N03."
+  "notes": "D1-N02 done (part 1 PDF 20-28 = pp. 9-17; part 2 PDF 28-35 = pp. 17-24). D1-N03 'Mundos non esse plures' starts on PDF 35 (printed 24), lower half, at 'Ereu. Etsi non credam Andabatam de hac re negotium mihi facessere velle' (margin 'Nodus III. Non esse plures mundos'). Nodus iv (De loci immobilitate) starts printed p. 32 (PDF ~43) per FM2 table, so D1-N03 (pp. 24-32) fits in one part. Offset +11 holds at p. 24. Builder: node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N02-p2.json)."
 }
