@@ -572,3 +572,17 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | morosius | rather sluggishly | |
 | symptomata / oeconomia | symptoms / economy | phenomena / system |
 | dixis | [Ne] dixis = do not say | archaic = dixeris |
+| superfundere | pour over | tidal inflow at one end (D2-N04) |
+| continuatio (vs motus) | continuation | propagation of a swelling, not transport of water |
+| ingurgitatus | gorged | |
+| ora barbarica | Barbary coast | |
+| Erythraeum (mare) | Erythraean [Sea] | Red Sea |
+| impetus | impetus | impressed force |
+| obex | obstacle [obici] | Galileo's barge example |
+| inaequalitas motus | inequality of the motion | Galileo's tide cause |
+| globuli ad metam | little balls to the mark | bowls |
+| extrusio / conversio | extrusion / turning | centrifugal objection |
+| senarum / duodenarum horarum | of six hours each / of twelve each | distributives |
+| crementa | increments [crementa] | |
+| personarum acceptor | accepter of persons | Vulgate |
+| fors | chance [fors] | = perhaps |
