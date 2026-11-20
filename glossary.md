@@ -276,3 +276,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | latitudo (declinationis) | breadth | not geographical latitude |
 | nostras | of our country / ours [nostratem] | |
 | reprehendere (dictum) | correct | |
+| Ohe, manum de tabula | Ho there, hand off the picture | 'enough, stop' (Apelles proverb) (D1-N08 p2) |
+| apud superos | among those above | = in the heavens |
+| ostentum / portentum | portent / portent [portenta] | |
+| extra aleam positum | placed beyond the die | beyond doubt |
+| esca | fuel | |
+| stellae subventaneae | wind-[begotten] stars | novae of 1572/1600 |
+| phasma | phantasm | |
+| nascitura | birth | rare noun |
+| suopte Marte | by their own Mars | unaided |
+| in medium conferre | bring into the middle | publish, contribute |
+| aspectus varietas | variety of aspect | = parallax |
+| caelicus | heavenly [caelicus] | vs coelestis = celestial |
+| e diverso | from the opposite side | |
+| species (visibiles) | appearances [species] | |
+| armenta | herds [armenta] | |
