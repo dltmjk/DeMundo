@@ -1,7 +1,7 @@
 {
-  "unit": "D1-N10",
-  "part": 2,
-  "next_pdf_page": 103,
+  "unit": "D1-N11",
+  "part": 1,
+  "next_pdf_page": 107,
   "completed": [
     "FM1",
     "FM2",
@@ -13,7 +13,8 @@
     "D1-N06",
     "D1-N07",
     "D1-N08",
-    "D1-N09"
+    "D1-N09",
+    "D1-N10"
   ],
-  "notes": "D1-N10 part 1 done (PDF 95-103 = pp. 84-92, ending with Ereunius' '...sed Philosophiae impar.' on p. 92). Part 2 starts on p. 92 (PDF 103) at 'Andab. Attamen si perpetuum sit lumen' and runs to the start of Nodus xi on p. 96 (PDF 107); check the margin there. Offset +11 holds at p. 92. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N10-p1.json)."
+  "notes": "D1-N10 complete (part 2: PDF 103-107 = pp. 92-96, ending '...difficilis (mihi certe) est coniectura.'). Nodus XI starts on p. 96 (PDF 107) at 'Asphal. Ergo ad tubos coelispices', margin 'Nodus XI. Tubum opticum in summo esse' (also margin 'Liber ingeniosissimus Renati de Cartes'). Check FM2 table for start of Nodus XII. Offset +11 holds at p. 96. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N10-p2.json)."
 }

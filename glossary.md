@@ -346,3 +346,22 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | trans naturam | beyond nature | metaphysics |
 | calumnia | cavil | |
 | continuum ex punctis | continuum out of points | |
+| irrorare / aspergo | bedew / sprinkling | oblique light image (D1-N10 p2) |
+| respective ad | relatively [respective] to | |
+| participatus | partaken [participata] | |
+| dixim | I would not say | archaic = dixerim |
+| iubae | manes | comet hair |
+| Polaris Pharus | Polar Pharos | Pole-star as lighthouse |
+| actuosus | effectual [actuosam] | |
+| periodus | circuit [periodi] | spatial |
+| cautela | caution [cautelae] | |
+| fingere | feign | frame hypotheses |
+| internoscere | discern | |
+| corporatior | more corporeal | |
+| sydereus nuncius | starry messenger | Galileo allusion |
+| dispungere | cancel | accounting |
+| vigor luminis | vigour of the light | brightness |
+| constipatio | crowding-together | |
+| traducere (voces) | transfer [traductae] | cf. translatio |
+| laevor | smoothness | |
+| subortus | up-springing | |
