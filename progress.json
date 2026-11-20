@@ -1,7 +1,7 @@
 {
-  "unit": "D1-N12",
+  "unit": "D1-N13",
   "part": 1,
-  "next_pdf_page": 112,
+  "next_pdf_page": 117,
   "completed": [
     "FM1",
     "FM2",
@@ -15,7 +15,8 @@
     "D1-N08",
     "D1-N09",
     "D1-N10",
-    "D1-N11"
+    "D1-N11",
+    "D1-N12"
   ],
-  "notes": "D1-N11 complete in one part (PDF 107-112 = pp. 96-101, ending '...qui nescio quae singularia agentia venantur.'). Nodus XII starts on p. 101 (PDF 112) at 'Asphal. Tam leviter itaque nobis praeripis notionem telluris', margin 'Nodus XII. Tellurem non esse magnetem'. FM2: Nodus XIII starts p. 106 (PDF 117). Offset +11 holds at p. 101. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N11.json)."
+  "notes": "D1-N12 complete in one part (PDF 112-117 = pp. 101-106, ending '...in aliqua spectabili magnitudine purum consistet.'). Nodus XIII starts mid-paragraph on p. 106 (PDF 117) at 'Et quod in terra usuvenit, idem in globis illis coelestibus' (Ereunius' speech continues), margin 'Nodus XIII. Singulis magnis solidis suum liquidum esse'. FM2: Nodus XIV starts p. 108 (PDF 119), so XIII is short (pp. 106-108). Offset +11 holds at p. 106. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N12.json)."
 }

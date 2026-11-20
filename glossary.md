@@ -382,3 +382,22 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | palpitare | grope | = palpare |
 | quanta quanta | however great | |
 | Lycaeum | Lyceum | Peripatetics |
+| apodixis | demonstration [apodixis] | Greek ἀπόδειξις (D1-N12) |
+| Gentilis | countryman | of the same nation (Gilbert/White, D1-N12) |
+| cortex (telluris) | rind | Gilbert's 'cortex' of the earth |
+| minera | ore | |
+| succi (concreti) | (concreted) juices | mineral juices |
+| meditullium | middle | core |
+| bolis | sounding-lead | |
+| Archaeus (Chymicus) | Archaeus | Paracelsian vital spirit |
+| Chymici | Chymists | |
+| egestio | ejection | volcanic |
+| mixtum (noun) | mixt | compound body; cf. mixtio = mixtion |
+| mistilis / miscibilis | miscible | |
+| decoquere | boil down | concoction |
+| effluvium | effluvium | |
+| fluidum / siccum / humidum | fluid / dry / moist | Aristotelian qualities; humiditas = humidity |
+| per minima | through [their] least [parts] | minima naturalia |
+| natum esse (+ inf.) | be apt by nature | aptum natum |
+| colluctatio | wrestling | |
+| Cavea | Cavity | hollow interior of the earth |
