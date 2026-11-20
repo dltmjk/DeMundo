@@ -309,3 +309,25 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | afflare / afflatio | breathe upon / breathing-upon | |
 | per lancem et libram | by the scale-pan and the balance | |
 | nihil moror | I make no delay | assent formula |
+| placita | decrees [placitis] | tenets (D1-N09 p2) |
+| inaedificare | build upon [inaedificare] | cf. superstruere |
+| abludere | be out of tune | differ |
+| lira | furrow [liras] | pun on plaustrum |
+| percolatio | percolation | |
+| expiscari | fish out | |
+| Commentatio | Commentation | |
+| statarius / cursor | stationary / running | |
+| substructiones | substructures | |
+| fides (authoris) | credit [fidem] | |
+| aequivocum | an equivocal | fallacy of equivocation |
+| libertinus | libertine [libertinum] | pun on Libertus Fromondus |
+| lex parallactica | parallactic law | |
+| indigitatio | name-invocation [indigitatione] | |
+| ingenuus | freeborn | |
+| octava sphaera | eighth sphere | fixed stars |
+| stellae transparentes | stars shining through | |
+| regerere | retort | |
+| Coelum fixarum | heaven of the fixed [stars] | |
+| mediusfidius | so help me the god of faith | |
+| diverbium | proverb [diverbio] | |
+| Grudii | the Grudii | Belgic tribe |
