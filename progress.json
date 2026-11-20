@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N06",
+  "unit": "D2-N07",
   "part": 1,
-  "next_pdf_page": 203,
+  "next_pdf_page": 207,
   "completed": [
     "FM1",
     "FM2",
@@ -25,7 +25,8 @@
     "D2-N02",
     "D2-N03",
     "D2-N04",
-    "D2-N05"
+    "D2-N05",
+    "D2-N06"
   ],
-  "notes": "D2-N05 complete (part 2: PDF 193-203 = pp. 182-192). Knot vi 'Cur tellus axem parallelum axi aequatoris teneat' begins on p. 192 (PDF 203) with 'Asphal. Sic me uno absolvis dubio' (marginal 'Nodus VI'), after Ereunius' '...quotannis succingit.'. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N05-p2.json)."
+  "notes": "D2-N06 complete (PDF 203-207 = pp. 192-196). Knot vii 'Unde sit praeventio Aequinoctiorum' begins on p. 196 (PDF 207) with 'Ereu. Ardua est haec difficultas, Asphali' (marginal 'Nodus VII'), after Asphalius' question '...ex magnetica telluris natura ostendere conatur' (kept in vi). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N06.json)."
 }

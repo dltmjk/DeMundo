@@ -638,3 +638,15 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | Beachus / Maleturus | Beach / Maletur | legendary southern lands |
 | lenocinia / prolicere | allurements / entice | |
 | fidem facere | give assurance | |
+| propter (local) | along | = prope, beside (D2-N06) |
+| impos | unable [impos] | |
+| concausa | joint-cause [concausa] | |
+| Lemniscus | pendant [Lemniscus] | weight hung on model globe |
+| librare / libratus | balance / balanced | |
+| instar | worth [instar] | |
+| ens suppositicium | supposititious being | |
+| sapere (aquam) | savour [sapiant] of | |
+| assecla | attendant [asseclas] | |
+| vertex (caeli) | zenith | |
+| praeversio (Aequinoctiorum) | outrunning [praeversione] | precession; cf. praeventio |
+| spiculum (solis) | dart | ray |
