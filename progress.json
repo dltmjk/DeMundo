@@ -1,7 +1,7 @@
 {
-  "unit": "D1-N11",
+  "unit": "D1-N12",
   "part": 1,
-  "next_pdf_page": 107,
+  "next_pdf_page": 112,
   "completed": [
     "FM1",
     "FM2",
@@ -14,7 +14,8 @@
     "D1-N07",
     "D1-N08",
     "D1-N09",
-    "D1-N10"
+    "D1-N10",
+    "D1-N11"
   ],
-  "notes": "D1-N10 complete (part 2: PDF 103-107 = pp. 92-96, ending '...difficilis (mihi certe) est coniectura.'). Nodus XI starts on p. 96 (PDF 107) at 'Asphal. Ergo ad tubos coelispices', margin 'Nodus XI. Tubum opticum in summo esse' (also margin 'Liber ingeniosissimus Renati de Cartes'). Check FM2 table for start of Nodus XII. Offset +11 holds at p. 96. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N10-p2.json)."
+  "notes": "D1-N11 complete in one part (PDF 107-112 = pp. 96-101, ending '...qui nescio quae singularia agentia venantur.'). Nodus XII starts on p. 101 (PDF 112) at 'Asphal. Tam leviter itaque nobis praeripis notionem telluris', margin 'Nodus XII. Tellurem non esse magnetem'. FM2: Nodus XIII starts p. 106 (PDF 117). Offset +11 holds at p. 101. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N11.json)."
 }

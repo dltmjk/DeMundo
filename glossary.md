@@ -365,3 +365,20 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | traducere (voces) | transfer [traductae] | cf. translatio |
 | laevor | smoothness | |
 | subortus | up-springing | |
+| tubus coelispex / tubus opticus | heaven-viewing tube / optic tube | telescope (D1-N11) |
+| in summo esse | be at the highest | at peak of perfection |
+| usu venire | happen | |
+| spes altera | second hope | Aen. XII.168 |
+| perspicillum explicatorium | unfolding spy-glass | magnifier |
+| anguli visorii | visual angles | |
+| scaphium | bowl | concave segment |
+| Catoptrica / Dioptrica | Catoptrics / Dioptrics | |
+| quianam | because | archaic 'why', used as quia |
+| cognatio | kinship | |
+| Electrum / Electrica | Amber / Electric [things] | Gilbert |
+| concretus | concreted | |
+| generans | generator | Phys. VIII.4 mover of heavy/light |
+| signatum agens | signate agent | |
+| palpitare | grope | = palpare |
+| quanta quanta | however great | |
+| Lycaeum | Lyceum | Peripatetics |
