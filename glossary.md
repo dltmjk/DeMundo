@@ -622,3 +622,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | flumen | stream | current or river |
 | ostia | mouths | straits |
 | caligare | be dim-sighted | |
+| motio | motion [motio] | vs motus (D2-N05 p2) |
+| componere (ad) | reckon [componatur] (to) | relative motion |
+| vectatio | carriage [vectationem] | |
+| virtus motrix | motive virtue | |
+| passa | patients | things acted upon |
+| Insula sancti Laurentis | Island of Saint Lawrence | Madagascar |
+| progressivus / incessus | progressive / gait | annual motion |
+| ad amussim | exactly | |
+| antipus | antipodal [antipus] | ? ἀντίπους; uncertain |
+| caeligena / Caelicolae | heaven-born / Heaven-dwellers | |
+| Maiorianae / Drakianae fauces | Mairean / Drakean straits | Le Maire / Drake Passage |
+| fretum Transmagellanicum | Transmagellanic strait | |
+| impultrices | impellers | |
+| Beachus / Maleturus | Beach / Maletur | legendary southern lands |
+| lenocinia / prolicere | allurements / entice | |
+| fidem facere | give assurance | |
