@@ -494,3 +494,32 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | captivare intellectum in obsequium fidei | take captive the understanding into the obedience of faith | 2 Cor 10:5 |
 | datam accipere | take as granted | |
 | Sacrae literae | Sacred letters | Scripture |
+| exhalamina | exhalations [exhalamina] | rare synonym of exhalationes (D2-N02) |
+| per circulum (cedere) | by a circle | antiperistasis |
+| sensim sine sensu | little by little without sense | Cicero, Sen. 38 |
+| egelidus | chilly [egelidos] | ambiguous: lukewarm / cool |
+| Libra Philosophica | Philosophical Balance | Grassi's Libra; Galileo's Saggiatore |
+| focus (sublimis) | fire [foci] | elemental sphere of fire |
+| volubilitas (telluris) | volubility | rotation |
+| motus communis | common motion | Galilean shared motion |
+| venti solemnes | customary [solemnes] winds | etesians |
+| Sacratus | Sacratus [= Sagredo?] | |
+| Galeones | Galleons | |
+| leuca | league | Spanish sea league = 4,000 paces |
+| Pristis | Pristis | sea-monster / Aen. V ship |
+| mare domicellarum | sea of the little ladies | Golfo de las Damas |
+| charta | chart | map |
+| positura | placing [positura] | |
+| malacia | calm [malaciam] | |
+| formicatim | ant-fashion | |
+| pessundare | send to the bottom | |
+| Mechanici | Mechanicians | |
+| citatio | velocity [citatione] | |
+| opinabilis | matter of opinion [opinabile] | |
+| ratis | vessel [ratis] | |
+| lentor | viscosity [lentor] | |
+| concitatio / concitare | setting-in-motion / set in motion | |
+| perpes | perpetual [perpes] | |
+| aestus (venti) | surge [aestum] | turbulence, vs aestus maris = tide |
+| vortices | whirlpools [vortices] | |
+| commixtio | mixing-together | cf. permixtio, mixtio |

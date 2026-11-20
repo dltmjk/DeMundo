@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N02",
+  "unit": "D2-N03",
   "part": 1,
-  "next_pdf_page": 144,
+  "next_pdf_page": 155,
   "completed": [
     "FM1",
     "FM2",
@@ -21,7 +21,8 @@
     "D1-N14",
     "D1-N15",
     "D1-N16",
-    "D2-N01"
+    "D2-N01",
+    "D2-N02"
   ],
-  "notes": "D2-N01 complete in one part (PDF 138-144 = pp. 127-133). D2-N02 begins mid-page on PDF 144 = printed p. 133 at 'Ereu. A me petis, quod ego a te debueram', margin 'Nodus II. Ventum in Zona torrida a sole excitari'. Table of nodi gives the start of D2 iii; check FM2 for its page. Offset +11 holds at p. 133. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N01.json)."
+  "notes": "D2-N02 complete in one part (PDF 144-155 = pp. 133-144). D2-N03 begins mid-page on PDF 155 = printed p. 144 at 'Andab. Iam hoc dixi, Occidentem versus.', margin 'Nodus III. Mare a litoribus et ad littora moveri'. Table of nodi gives D2 iv start (check FM2.md). Offset +11 holds at p. 144. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N02.json)."
 }
