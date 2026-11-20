@@ -586,3 +586,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | crementa | increments [crementa] | |
 | personarum acceptor | accepter of persons | Vulgate |
 | fors | chance [fors] | = perhaps |
+| non refert | it does not matter | |
+| species (littorum) | forms | configurations of coasts, not scholastic species |
+| incompertum | unascertained | |
+| intra nos et solem | within us and the sun | = between (conjunction) |
+| institutum | purpose | |
+| sphaera materialis | material sphere | armillary sphere |
+| respectus | relations | |
+| scrinium | cabinet | |
+| translatio (globorum) | carrying-across | transport |
+| nihilo (velocior) | by nothing | abl. of degree |
+| dirimere (nodum) | cut apart | pun on nodus |
+| cumulare | crown | |
+| meam fidem | upon my faith | asseveration |
+| discursus (sermo) | discourse | vs planetary 'running-about' |
+| aestuare | to tide | |
+| citra | without | late Latin |
