@@ -542,3 +542,33 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | scitare | consult [scitare] | deponent imperative |
 | circumforanei | itinerant | almanac-makers |
 | ipsus | yourself [ipsus] | archaic ipse |
+| accessus & decessus | comings and goings | flood and ebb (D2-N03 p2) |
+| littus urgere | press the shore | hug the shore |
+| testis omni exceptione maior | witness greater than every exception | Roman-law formula |
+| a calvo ad calvum | from bald [man] to bald [man] | uncertain idiom |
+| oculatus testis | eye-witness | |
+| Antiselene | Antiselene | point opposite the moon? |
+| in fumos abire | go off into smoke | |
+| schema | diagram [schemate] | |
+| errores / errata | errors / slips | |
+| perspectiva communis | common perspective | Pecham |
+| optices principes | princes of optics | |
+| accidentia (aestus) | accidents | observed features |
+| stata tempora | fixed times | |
+| per accidens | by accident | scholastic |
+| indifferentius | more indifferently | evenly |
+| pulsus (aquae) | driving [pulsus] | |
+| Sylvicidae / hortulani | Wood-cutters / gardeners | |
+| dominatrix | mistress | |
+| modulus | little measure | |
+| luna satura / satiata / sitiens / siticulosa | sated / thirsty moon | full / new moon |
+| adminiculum | prop | |
+| qualitas occulta | occult quality | |
+| plenilunium / interlunium / novilunium / coitio | full moon / inter-lune / new moon / coition | |
+| accessarius | accessory | |
+| detrimentum horarium | hourly loss | daily tidal lag |
+| defectus / deficere | defect / fall short | lag, not eclipse here |
+| negotiatio | dealing | agency |
+| morosius | rather sluggishly | |
+| symptomata / oeconomia | symptoms / economy | phenomena / system |
+| dixis | [Ne] dixis = do not say | archaic = dixeris |
