@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N08",
-  "part": 2,
-  "next_pdf_page": 219,
+  "unit": "D2-N09",
+  "part": 1,
+  "next_pdf_page": 223,
   "completed": [
     "FM1",
     "FM2",
@@ -27,7 +27,8 @@
     "D2-N04",
     "D2-N05",
     "D2-N06",
-    "D2-N07"
+    "D2-N07",
+    "D2-N08"
   ],
-  "notes": "D2-N08 part 1 done (PDF 212-219 = pp. 201-208, to Andabata's '...nisi videro, non credam'). Part 2 starts p. 208 (PDF 219) with 'Ereu. Andabatae quatenus possumus, gerendus est mos' (marginal 'Phaenomena motum aeris testantia') and ends p. 212 (PDF 223) after Asphalius' '...quiescente terra.'; knot ix begins p. 212 PDF 223 at 'Ereu. Permitte ut paulo altius rem incipiam' (marginal 'Nodus IX. Corpus loco moveri'). Save part 2 as translations/D2-N08-p2. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N08-p1.json)."
+  "notes": "D2-N08 complete (part 2: PDF 219-223 = pp. 208-212). D2-N09 'Corpus loco moveri' starts p. 212 (PDF 223) at 'Ereu. Permitte ut paulo altius rem incipiam' (marginal 'Nodus IX. Corpus loco moveri'); check the table of nodi (FM2) for where knot x starts and split into parts if >10 pp. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N08-p2.json)."
 }

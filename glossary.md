@@ -691,3 +691,27 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | fucatus | painted [fucatae] | specious |
 | inane merum | mere void | |
 | sessio / statio | sitting / standing | |
+| gerendus est mos | compliance must be borne [gerendus est mos] | morem gerere (D2-N08) |
+| ab Ixione | from Ixion | = from the clouds |
+| nexus (montium) | linkage [nexus] | mountain chains |
+| dissepire | fence apart [dissepiantur] | |
+| Meteorologi | the Meteorologists | |
+| cauda Fromondiana | the Fromondian tail | comet of 1618 |
+| experimentum | experiment [experimentum] | observation/experience |
+| convincere | prove [convincit] | forensic |
+| mage | rather [mage] | = magis |
+| Perigaeus | Perigee [Perigaeum] | |
+| repedare | step back [repedare] | |
+| pili (cometici) | cometic hairs [pili] | |
+| addixim | would have bound [addixim] | = addixerim |
+| inclinatio ad motum / ad quietem | inclination to motion / to rest | |
+| in esse / quoad esse | in being / as to being | |
+| actu fit | is in act being done [actu fit] | |
+| eodem facto / ipso facto | by the same deed / by that very fact | |
+| dicturire | be wanting to say [dicturiebam] | desiderative |
+| caput (argumenti) | head [capite] | |
+| susque deque habere | hold it all one [susdeque habeo] | |
+| indigitare | call [indigitare] | |
+| virtus loco movens | virtue moving in place | |
+| loco moveri | be moved in place [loco] | local motion |
+| impressio | impression | |
