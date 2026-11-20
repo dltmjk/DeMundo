@@ -331,3 +331,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | mediusfidius | so help me the god of faith | |
 | diverbium | proverb [diverbio] | |
 | Grudii | the Grudii | Belgic tribe |
+| capillitium | head of hair | star's fringe of rays (D1-N10) |
+| dupla ratio | duplicate ratio | = squared ratio |
+| intensio | intension | degree |
+| metatio | measuring-out | |
+| conus rectus / scalenus | right / scalene cone | |
+| habento | let them have | future imperative |
+| extra oleas | outside the olives | off the subject |
+| dicto audiens | obedient to [one's] word | |
+| vallus / asser | stake / pole | |
+| later / latus | brick / side | pun 'lateribus' |
+| gryphus | riddle | γρῖφος |
+| demissio (radiorum) | letting-down | |
+| trans naturam | beyond nature | metaphysics |
+| calumnia | cavil | |
+| continuum ex punctis | continuum out of points | |
