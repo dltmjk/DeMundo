@@ -650,3 +650,21 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | vertex (caeli) | zenith | |
 | praeversio (Aequinoctiorum) | outrunning [praeversione] | precession; cf. praeventio |
 | spiculum (solis) | dart | ray |
+| praeventio / praecessio (Aequinoctiorum) | anticipation / precession | cf. praeversio = outrunning (D2-N07) |
+| enodare | unknot | pun on nodus |
+| in consequentia signorum | in the consequence of the signs | eastward order |
+| cingulum (cursus diurni) | girdle | = equator |
+| decubitus | lying-down [decubitu] | |
+| legitimus (spatium) | lawful [legitimum] | sufficient |
+| putei Syenes | wells of Syene | Eratosthenes |
+| subsultatio | leaping-up | |
+| virtus centralis / centripotens | central virtue / centre-powerful | |
+| denominative | denominatively | extrinsic denomination |
+| febrire | be fevered | |
+| Gillebrandus | Gillebrand | Henry Gellibrand, Gresham professor |
+| animadversio | observation [animadversio] | |
+| litem decidere | decide the lawsuit | |
+| causa removens | removing cause | |
+| pelvis | basin [pelui] | Galileo's floating-ball comparison |
+| τῷ αὐτὸς ἔφα | 'he himself said' | ipse dixit |
+| sepulturae trophaea | trophies of burial | |
