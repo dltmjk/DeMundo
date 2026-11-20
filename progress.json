@@ -1,7 +1,7 @@
 {
   "unit": "D2-N08",
-  "part": 1,
-  "next_pdf_page": 212,
+  "part": 2,
+  "next_pdf_page": 219,
   "completed": [
     "FM1",
     "FM2",
@@ -29,5 +29,5 @@
     "D2-N06",
     "D2-N07"
   ],
-  "notes": "D2-N07 complete (PDF 207-212 = pp. 196-201). Knot viii 'Aerem usque ad confinia lunae a terra circumferri' begins on p. 201 (PDF 212, near foot) with 'Ereu. Habes Galilaei systema, illic argumenta ista...' (marginal 'Nodus VIII'), after Andabata's '...sepulturae trophaea recondere?' (kept in vii); table says 202. Knot ix per table at p. 212 (PDF 223) - check marginal. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N07.json)."
+  "notes": "D2-N08 part 1 done (PDF 212-219 = pp. 201-208, to Andabata's '...nisi videro, non credam'). Part 2 starts p. 208 (PDF 219) with 'Ereu. Andabatae quatenus possumus, gerendus est mos' (marginal 'Phaenomena motum aeris testantia') and ends p. 212 (PDF 223) after Asphalius' '...quiescente terra.'; knot ix begins p. 212 PDF 223 at 'Ereu. Permitte ut paulo altius rem incipiam' (marginal 'Nodus IX. Corpus loco moveri'). Save part 2 as translations/D2-N08-p2. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N08-p1.json)."
 }

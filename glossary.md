@@ -668,3 +668,26 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | pelvis | basin [pelui] | Galileo's floating-ball comparison |
 | τῷ αὐτὸς ἔφα | 'he himself said' | ipse dixit |
 | sepulturae trophaea | trophies of burial | |
+| convoluta & evoluta | rolled up and unrolled | book-roll image (D2-N08) |
+| occinere | sing over [occinam] | |
+| depugnare | fight it out [depugno] | |
+| crepuscula / nebulae crepusculinae | twilights / twilight clouds | high atmospheric haze |
+| nedum | much less [nedum] | |
+| Nihil nihil esse | Nothing is nothing | against imaginary space |
+| tua pace | by your leave [tua pace] | |
+| autumare | reckon [autumo] | archaic |
+| medium (resistentia medii) | medium [medii] | |
+| congeneus | congeneous [congeneum] | |
+| exhalabilitas | exhalability | |
+| pro suo posse / pro suo modulo | according to its power / its little measure | |
+| solidare | solidify [solidare] | |
+| gravitare | gravitate [gravitare] | |
+| in propatulo | in the open | |
+| devergere | incline itself down [devergat] | |
+| afflatus | breathings [afflatus] | = effluvia |
+| adhaerescentia | adhesiveness | |
+| scissilis | splittable [scissile] | |
+| Thomarum familia | family of the Thomases | doubting Thomas |
+| fucatus | painted [fucatae] | specious |
+| inane merum | mere void | |
+| sessio / statio | sitting / standing | |
