@@ -715,3 +715,29 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | virtus loco movens | virtue moving in place | |
 | loco moveri | be moved in place [loco] | local motion |
 | impressio | impression | |
+| per se / per accidens (moveri) | by itself / by accident | own surface vs. contained part (D2-N09) |
+| extima superficies | outermost surface | place |
+| praehabere | pre-have [praehabeat] | presuppose |
+| in medium relinquo | I leave in the middle | leave open |
+| effluvia (Astri) | effluvia | |
+| negatio motus | negation of motion | |
+| penes extrinseca | in respect of [penes] extrinsic things | |
+| pervellere | pluck [pervellat] | |
+| nimis quam | exceedingly [nimis quam] | |
+| persentiscere | perceive thoroughly [persentiscit] | |
+| alluere | wash against [alluunt] | |
+| eglomerare | unwind [eglomerandi] | |
+| molae / capulus | grindstones / hilt [capulo] | |
+| vicem & potestatem sortiri | be allotted the turn and power | |
+| rotabilia | rotatable things | |
+| enucleate / articulatim | cleanly / point by point | |
+| addicere se | bind oneself [addicam] | |
+| motus communis / particularis | common / particular motion | |
+| qualitas impressa | impressed quality | impetus theory |
+| nixus | strainings [nixus] | |
+| excetra | water-snake [excetram] | hydra |
+| umbra (Galilaei) | shade [umbra] | |
+| bifidus flexus | two-forked bending | |
+| interemptorie | peremptorily [interemptorie] | |
+| indiculus | little index [indiculo] | |
+| malus (navis) / arbor navis | mast | ship's-mast experiment |
