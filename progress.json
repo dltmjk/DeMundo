@@ -1,7 +1,7 @@
 {
   "unit": "D1-N09",
-  "part": 1,
-  "next_pdf_page": 80,
+  "part": 2,
+  "next_pdf_page": 89,
   "completed": [
     "FM1",
     "FM2",
@@ -14,5 +14,5 @@
     "D1-N07",
     "D1-N08"
   ],
-  "notes": "D1-N08 done (part 2 = PDF 76-80 = pp. 65-69). D1-N09 starts on p. 69 (PDF 80) at 'Andab. Quid etiamne barbas Cometis' (the Nodus IX margin sits beside the last lines of Ereunius' preceding speech, which were included in D1-N08 p2). Next nodus x per FM2 table; check the margin. Offset +11 holds at p. 69. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N08-p2.json)."
+  "notes": "D1-N09 part 1 done (PDF 80-89 = pp. 69-78, ending with Ereunius' speech '...altitudinem caudae a centro quae una linearum est.'). Part 2 starts on p. 78 (PDF 89) at 'Asphal. Hoc itaque certum habes'; the p. 78 margin 'Solem caput & caudam Cometae una recta linea contineri' belongs to part 2. Nodus x starts p. 84 (PDF 95) per FM2 table; check the margin. Offset +11 holds at p. 78. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N09-p1.json)."
 }

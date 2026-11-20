@@ -291,3 +291,21 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | e diverso | from the opposite side | |
 | species (visibiles) | appearances [species] | |
 | armenta | herds [armenta] | |
+| barba / cauda / caput (Cometae) | beard / tail / head | comet parts (D1-N09) |
+| Syrma | Train [Syrma] | comet's train |
+| Cinni | Curls [Cinnos] | ? = cincinni |
+| nebula | mist | vs nubes = cloud |
+| spiculum / telum (Solis) | little dart / dart | sunbeams |
+| resultus | rebound | |
+| extantia | standing-out | |
+| collimare | aim | telescope |
+| tubus | the tube | telescope |
+| raptus (motus) | rapture | diurnal motion from primum mobile |
+| Iris | Rainbow [Irim] | |
+| machinatio | contrivance | |
+| exleges | lawless | |
+| plaustrum | Wain | Ursa Major |
+| contingens (linea) | touching (line) | tangent |
+| afflare / afflatio | breathe upon / breathing-upon | |
+| per lancem et libram | by the scale-pan and the balance | |
+| nihil moror | I make no delay | assent formula |
