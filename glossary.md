@@ -427,3 +427,26 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | species infima | lowest species | Porphyrian |
 | in orbem trudi | be thrust into a circle | rotation |
 | permixtio / permiscere | mixing-through / mix through | vs mixtio = mixtion |
+| contemperatio | tempering-together | concurrence of causes (D1-N15) |
+| filum Ariadnaeum | Ariadnaean thread | chain of causes |
+| virtus | virtue | operative power in a subject |
+| non est pote | cannot [non est pote] | archaism = non potest |
+| complicatio | complication | folding-together (cf. explicatio) |
+| refundere | pour back | |
+| integro se | itself [remaining] entire | |
+| nihil attinet | it is nothing to the purpose | |
+| machina (corporea) | machine | machina mundi |
+| corpusculum | little body | |
+| volumina (ignorantiae) | rolling floods | |
+| contubernium | companionship | |
+| prosapia / proseminare | lineage / sow forth | |
+| derivare | channel | hydraulic |
+| partus (proprii) | (own) offspring | brain-children |
+| annus Platonicus | Platonic year | Great Year, Timaeus 39d |
+| fixae tabulae | tables fixed | law-tablets |
+| flammantia moenia mundi | flaming walls of the world | Lucretius I.73 |
+| voluptuarius Poeta | pleasure-loving Poet | = Lucretius |
+| qualitates infusae | infused qualities | |
+| defectibilis | defectible | |
+| ahenus | brazen | |
+| flabra | blasts | |
