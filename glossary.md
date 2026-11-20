@@ -602,3 +602,23 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | discursus (sermo) | discourse | vs planetary 'running-about' |
 | aestuare | to tide | |
 | citra | without | late Latin |
+| resistentia | resistance | D2-N05 thesis |
+| gravitas / gravia et levia | heaviness / heavy and light [things] | |
+| depactus / depangere | fixed down / fix down | |
+| adhaerescentia | adhesion | contact-resistance (D2-N05) |
+| affectio (corporis) | affection | scholastic property |
+| insuper habere | hold of no account | idiom: disregard |
+| Physicum agere | play the Physicist | |
+| repugnantia | repugnance | cf. repugnare |
+| turbo / turben | top | spinning top |
+| rota se movens | self-moving wheel | overbalanced perpetual motion wheel |
+| canthus | rim | |
+| devexus / acclivis | down-sloping / up-sloping | |
+| argentum vivum | quicksilver | |
+| Motor (telluris) | Mover | the easterly wind |
+| supernatare / pertundere | swim over / beat through | |
+| portus viridis | green harbour [Greenwich] | |
+| Pons | the Bridge | London Bridge |
+| flumen | stream | current or river |
+| ostia | mouths | straits |
+| caligare | be dim-sighted | |

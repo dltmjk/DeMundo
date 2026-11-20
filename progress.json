@@ -1,7 +1,7 @@
 {
   "unit": "D2-N05",
-  "part": 1,
-  "next_pdf_page": 184,
+  "part": 2,
+  "next_pdf_page": 193,
   "completed": [
     "FM1",
     "FM2",
@@ -26,5 +26,5 @@
     "D2-N03",
     "D2-N04"
   ],
-  "notes": "D2-N04 complete (part 2 = PDF 181-184 = pp. 170-173, ends with Andabata's '...Aestus citra ipsius existentiam consistere potest.'). Knot v 'Nullam esse resistentiam terrae ad motum' (margin: 'Nullam esse resistentiam in terra ad motum') starts p. 173 (PDF 184) at 'Ereu. Siccine arbitraris?', lower half of the page; next knot vi start: check FM2 table. Offset +11 holds (signature Y iij at p. 173). Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N04-p2.json)."
+  "notes": "D2-N05 part 1 done (PDF 184-193 = pp. 173-182, ends with Ereunius' '...tam angusto coarctantur alveo.'). Part 2 starts p. 182 (PDF 193) at 'Andab. Ingeniosam excogitasti fugam' (margin 'Motus terraene an maris sit velocior'); knot v runs to p. 192 (PDF 203) where knot vi 'Cur tellus axem parallelum axi aequatoris teneat' begins. Offset +11 holds; printed p. 180 is misnumbered 181 in the running head. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N05-p1.json)."
 }
