@@ -414,3 +414,16 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | moles | bulk | |
 | reparatus | repair [reparatui] | |
 | impollutus | unpolluted | |
+| senio, seniones | six, sixes | dice (D1-N14) |
+| alea / fritillus / iactus | die / dice-box / throw | |
+| vices | turns | combinations, chances |
+| compos (termini) | master (of a term) | |
+| dehiscere | gape open | |
+| redigere in exercitium | reduce into exercise | into act |
+| phantasia | phantasy | imagination |
+| inficias ire | go to deny | |
+| defuat | would be lacking | archaic = desit |
+| necessum | necessary [necessum] | archaic = necesse |
+| species infima | lowest species | Porphyrian |
+| in orbem trudi | be thrust into a circle | rotation |
+| permixtio / permiscere | mixing-through / mix through | vs mixtio = mixtion |
