@@ -401,3 +401,16 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | natum esse (+ inf.) | be apt by nature | aptum natum |
 | colluctatio | wrestling | |
 | Cavea | Cavity | hollow interior of the earth |
+| par (telluri) | equal [pares] | like in kind/size (D1-N13) |
+| interstitia | interstices | |
+| famulari / famulatus | serve / service | |
+| coarguere | prove [coarguit] | forensic 'convict' |
+| credito | believe | future imperative |
+| humor | humour [humorem] | moisture, vapour |
+| advena | newcomer [advenarum] | |
+| retundere | blunt | |
+| spiramentum | breathing-out [spiramenta] | kept apart from effluvium, vapor |
+| recrementum | refuse [recrementa] | |
+| moles | bulk | |
+| reparatus | repair [reparatui] | |
+| impollutus | unpolluted | |

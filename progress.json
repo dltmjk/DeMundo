@@ -1,7 +1,7 @@
 {
-  "unit": "D1-N13",
+  "unit": "D1-N14",
   "part": 1,
-  "next_pdf_page": 117,
+  "next_pdf_page": 119,
   "completed": [
     "FM1",
     "FM2",
@@ -16,7 +16,8 @@
     "D1-N09",
     "D1-N10",
     "D1-N11",
-    "D1-N12"
+    "D1-N12",
+    "D1-N13"
   ],
-  "notes": "D1-N12 complete in one part (PDF 112-117 = pp. 101-106, ending '...in aliqua spectabili magnitudine purum consistet.'). Nodus XIII starts mid-paragraph on p. 106 (PDF 117) at 'Et quod in terra usuvenit, idem in globis illis coelestibus' (Ereunius' speech continues), margin 'Nodus XIII. Singulis magnis solidis suum liquidum esse'. FM2: Nodus XIV starts p. 108 (PDF 119), so XIII is short (pp. 106-108). Offset +11 holds at p. 106. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N12.json)."
+  "notes": "D1-N13 complete in one part (PDF 117-118 = pp. 106-107, from 'Et quod in terra usuvenit' to '...quae in singulis variatur.' at end of p. 107). Nodus XIV starts at top of p. 108 (PDF 119): 'Asphal. Dum tu ad Andabatam disputas', margin 'Nodus XIV. Idem individuum non posse naturaliter redire'. FM2: Nodus XV starts p. 111 (check). Offset +11 holds at p. 107. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N13.json)."
 }
