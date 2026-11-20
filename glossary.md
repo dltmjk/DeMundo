@@ -469,3 +469,28 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | admiratio | wonder [admiratio] | |
 | molestia | trouble [molestia] | |
 | incommodum | inconvenience [incommodo] | |
+| Bruma | Winter-solstice | (D2-N01) |
+| automatum horarium | self-moving clock | |
+| sera / pessulus | lock-bar / bolt | |
+| loci insiti / coniuncti | inbred / conjoined places | rhetorical topics |
+| catenata theoremata | chained theorems | demonstrative physics |
+| disserere / disserendi | dispute / disputing | |
+| in utramque partem | on either side | |
+| obtorto collo | with twisted neck | |
+| redimere vexationem | redeem a vexation | legal phrase |
+| sponsio / stipulatio | engagement / stipulation | Roman law |
+| aequi bonique consulere | take as fair and good | |
+| vices agere | play [one's] parts | |
+| mutatio | change | cf. motus = motion |
+| permutatio / permutari | exchange / be exchanged | sun–earth relative change |
+| vicissitudo / vicissitudinarius | vicissitude / vicissitudinary | |
+| semita | path | |
+| absque eo quod | without | scholastic connective |
+| respective | relatively | |
+| proprietas / improprietas (vocis) | propriety / impropriety | literal vs. figurative |
+| rubrica | red line | ? meridian line |
+| Idiotismi | Idioms | |
+| supellex | furniture | intellectual equipment |
+| captivare intellectum in obsequium fidei | take captive the understanding into the obedience of faith | 2 Cor 10:5 |
+| datam accipere | take as granted | |
+| Sacrae literae | Sacred letters | Scripture |
