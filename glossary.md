@@ -450,3 +450,22 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | defectibilis | defectible | |
 | ahenus | brazen | |
 | flabra | blasts | |
+| conatus | endeavour | tendency, impetus (D1-N16) |
+| momentum (naturae) | moment [momentum] | physical sense: inclination, impetus (D1-N16) |
+| extimus | outermost | extima superficies mundi |
+| Conopaeum (Coelorum) | Canopy | bed-curtain; vault of heaven |
+| maceria | enclosure-wall | |
+| fluores | flowings | ≠ fluida = fluids |
+| distantia non saturata | distance not saturated | White's vacuum |
+| commoditas / commodus | commodity / commodious | vs nobilitas |
+| spectabilitas | spectability | |
+| secundae intentiones | second intentions | logical concepts; Rabelais allusion |
+| discursus | running-about | planetary courses |
+| motus quantitativus | quantitative motion | augmentation vs local motion |
+| eutrapelia | pleasantry | Aristotle's virtue of wit |
+| Zythum | beer | |
+| incidentia | incidental [things] | digressions vs nodi |
+| tubus longispicus | far-seeing tube | telescope (D1-N16) |
+| admiratio | wonder [admiratio] | |
+| molestia | trouble [molestia] | |
+| incommodum | inconvenience [incommodo] | |

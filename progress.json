@@ -1,7 +1,7 @@
 {
-  "unit": "D1-N16",
+  "unit": "D2-N01",
   "part": 1,
-  "next_pdf_page": 127,
+  "next_pdf_page": 138,
   "completed": [
     "FM1",
     "FM2",
@@ -19,7 +19,8 @@
     "D1-N12",
     "D1-N13",
     "D1-N14",
-    "D1-N15"
+    "D1-N15",
+    "D1-N16"
   ],
-  "notes": "D1-N15 complete in one part (PDF 123-127 = pp. 112-116, to '...flabrorum fragilitati subiicere.' mid p. 116). Nodus XVI starts on p. 116 (PDF 127) at 'Ereu. Nequaquam ego, Andabata', margin 'Nodus XVI. Mundo non esse opus corpore caetera continente'. It is the last nodus of Dialogue I; Dialogue II begins after it (check page). Offset +11 holds at p. 116. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N15.json)."
+  "notes": "D1-N16 complete in one part (PDF 127-136 = pp. 116-125); Dialogue I finished. PDF 137 (= p. 126) blank. Dialogue II ('Dialogus secundus. De forma mundi seu motu magnorum corporum') begins PDF 138 = printed p. 127 with 'Postridie Bruma et Auster', margin 'Nodus I. Introductio'. Table of nodi: D2 ii starts p. 133, so D2-N01 = pp. 127-133 (PDF 138-144). Offset +11 holds at p. 127. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D1-N16.json)."
 }
