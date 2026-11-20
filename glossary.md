@@ -523,3 +523,22 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | aestus (venti) | surge [aestum] | turbulence, vs aestus maris = tide |
 | vortices | whirlpools [vortices] | |
 | commixtio | mixing-together | cf. permixtio, mixtio |
+| iactatio | tossing | wave-agitation of the swell (D2-N03) |
+| intumescentia / tumor | swelling / swelling [tumorem] | |
+| aequilibrium | equilibrium | |
+| aequor (stagnorum) | level surface | etymological; else 'level'/sea |
+| agger / iugum (aquae) | mound / ridge | |
+| ad sensum | to sense | perceptibly |
+| incubatio (venti) | brooding | |
+| interpolatus | interrupted [interpolatam] | intermittent |
+| uno tenore | in one tenor | |
+| per senas horas | through six hours [each time] | distributive |
+| automatum (ad dirigendum diem) | self-moving [machine] | watch; Chalybs = Steel (mainspring) |
+| concubia nocte | in the dead of night | |
+| Maragnon | the Maragnon | Amazon |
+| sinus (maris) | bay [sinum] | |
+| Gaditanum fretum | Strait of Cadiz | Gibraltar |
+| astipulator | supporter [astipulatorem] | Roman-law backer |
+| scitare | consult [scitare] | deponent imperative |
+| circumforanei | itinerant | almanac-makers |
+| ipsus | yourself [ipsus] | archaic ipse |

@@ -1,7 +1,7 @@
 {
   "unit": "D2-N03",
-  "part": 1,
-  "next_pdf_page": 155,
+  "part": 2,
+  "next_pdf_page": 164,
   "completed": [
     "FM1",
     "FM2",
@@ -24,5 +24,5 @@
     "D2-N01",
     "D2-N02"
   ],
-  "notes": "D2-N02 complete in one part (PDF 144-155 = pp. 133-144). D2-N03 begins mid-page on PDF 155 = printed p. 144 at 'Andab. Iam hoc dixi, Occidentem versus.', margin 'Nodus III. Mare a litoribus et ad littora moveri'. Table of nodi gives D2 iv start (check FM2.md). Offset +11 holds at p. 144. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N02.json)."
+  "notes": "D2-N03 part 1 done (PDF 155-164 = pp. 144-153, to Asphal. '...quo nihil notius vel constantius esse potest?'). Part 2 begins mid-page on PDF 164 = p. 153 at 'Ereu. Non factum nego, sed qui fiat declaro' (margin 'Cur in Oceano appareat aqua in Orientem redire') and runs to start of D2 iv at p. 161 (PDF 172; find the 'Nodus IV' margin). Offset +11 holds at p. 153. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N03-p1.json)."
 }
