@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N06",
+  "unit": "D3-N07",
   "part": 1,
-  "next_pdf_page": 326,
+  "next_pdf_page": 334,
   "completed": [
     "FM1",
     "FM2",
@@ -40,7 +40,8 @@
     "D3-N02",
     "D3-N03",
     "D3-N04",
-    "D3-N05"
+    "D3-N05",
+    "D3-N06"
   ],
-  "notes": "D3-N05 done (PDF 317-326 = pp. 306-315, ends with Asphalius' '...tot ab eo creabilibus praetulerit.'). Knot VI ('Mundum qui est esse creabilium optimum') begins p. 315 (PDF 326) mid-page with Ereunius' 'Si me consulis, quia hic omnium optimus est' (margin 'Nodus VI'); Knot VII begins p. 323 (PDF 334). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N05.json)."
+  "notes": "D3-N06 done (PDF 326-334 = pp. 315-323, ends with Ereunius' '...potuerint non fuisse.'). Knot VII ('Quomodo Deus propter suam bonitatem mundum condiderit?') begins p. 323 (PDF 334) mid-page with Asphalius' 'Nescio quomodo fiat ut cum eripueris' (margin 'Nodus VII'). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N06.json)."
 }

@@ -986,3 +986,24 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | praeexistere | pre-exist | priority of necessity, not time (D3-N05) |
 | assuetudo / fixio | habituation / fixing | (D3-N05) |
 | caligo (puri luminis) | darkness [caliginem] | (D3-N05) |
+| magis agendum / agibilia | more to-be-done / things doable | practical reason (D3-N06) |
+| imperium (rationis) | command [imperio] | act following judgement (D3-N06) |
+| omnibus positis / hic et nunc | all things being posited / here and now | (D3-N06) |
+| extra litem & aleam | outside dispute and hazard | (D3-N06) |
+| quantus quantus est | however great it is | (D3-N06) |
+| participabilitas | participability | (D3-N06) |
+| eminentia | eminence | (D3-N06) |
+| ipse videris | you yourself will see to | brush-off (D3-N06) |
+| ex proprio loco | from its proper place | dialectical topic (D3-N06) |
+| separati Spiritus | separated Spirits | (D3-N06) |
+| coaptatio | co-adaptation | (D3-N06) |
+| multiiugus | many-yoked | (D3-N06) |
+| abludere | differ [abludere] | (D3-N06) |
+| tecum facio | I side with you | (D3-N06) |
+| existentia existens | existing existence | (D3-N06) |
+| hallucinari | be deceived [halluciner] | (D3-N06) |
+| adyta | inner shrines | (D3-N06) |
+| praehabere | have beforehand | (D3-N06) |
+| causalitas finalis | final causality | (D3-N06) |
+| virtus (causal) | power [virtutem] | 'virtue' when moral (D3-N06) |
+| incommodus | unfitting [incommodas] | (D3-N06) |
