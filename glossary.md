@@ -768,3 +768,13 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | per modum suppositionis / assertionis | by way of supposition / of assertion | (D2-N10) |
 | stratum / lectus | bed | dialogue setting (D2-N10) |
 | mancus | maimed | (D2-N10) |
+| semicirculi angulus / reliquus | angle of the semicircle / the remaining [one] | Elements III.16 (D2-N11) |
+| anguli mixti | mixed angles | curvilinear-rectilinear (D2-N11) |
+| Scholiastes | Scholiast | (D2-N11) |
+| corollarium | corollary | (D2-N11) |
+| ex arte | according to art | (D2-N11) |
+| continere / contineri | contain / be contained | (D2-N11) |
+| quatenus & ubi | in so far as and where | (D2-N11) |
+| ἄτοπα | absurdities [ἄτοπα] | (D2-N11) |
+| nihil nostris debentia | owing nothing to ours | idiom: not inferior (D2-N11) |
+| operae pretium | worth the trouble | (D2-N11) |
