@@ -874,3 +874,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | philtrum | love-potion | |
 | Eques | Horseman | |
 | postquam (causal) | since [postquam] | |
+| signum temporis / in signo E | sign [signo] of time | = instant; cf. signum of motion = mark (D3-N02) |
+| instans | instant | |
+| concursus divinus | divine concurrence | (D3-N02) |
+| missum facere | dismiss [misso … facto] | (D3-N02) |
+| novitas / de novo | newness / anew | (D3-N02) |
+| conspiratio | conspiring [conspiratione] | (D3-N02) |
+| primordium | first beginning [primordium] | (D3-N02) |
+| primum mobile | first mobile [primi mobilis] | (D3-N02) |
+| inducere / inductio | induce (= infer) / induction | (D3-N02) |
+| passio naturalis | natural passion [passionem] | being acted on (D3-N02) |
+| magnes / succinum | magnet / amber | (D3-N02) |
+| calculus | vote [calculo] | (D3-N02) |
+| fidem facere | make faith | (D3-N02) |
+| materiatum (agens) | materiate [materiatum] | (D3-N02) |
+| extricare | extricate / untie [extricandus] | (D3-N02) |

@@ -1,7 +1,7 @@
 {
   "unit": "D3-N02",
-  "part": 1,
-  "next_pdf_page": 280,
+  "part": 2,
+  "next_pdf_page": 289,
   "completed": [
     "FM1",
     "FM2",
@@ -38,5 +38,5 @@
     "D2-N15",
     "D3-N01"
   ],
-  "notes": "D3-N01 complete (PDF 276-280 = pp. 265-269, ends 'ad quem' at top of p. 269). D3-N02 'Motum universi a principio externo esse' begins p. 269 (PDF 280) with 'Ereu. Nosti me interrogationibus procedere solitum' (margin 'Nodus II'); D3-N03 starts p. 285 (PDF 296), so N02 is ~16 pp. and needs 2 parts (part 1 ~pp. 269-277). Offset +11 holds. Dialogue III running head 'de caussis Mundi'; heading 'De Duratione & Gubernatione Mundi'. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N01.json)."
+  "notes": "D3-N02 part 1 done (PDF 280-289 = pp. 269-278, ends with Asphalius' '...aperias.' on p. 278). Part 2 begins p. 278 (PDF 289) with 'Ereu. Ad ardua me cogis' (margin 'Incorporea non mota movere') and runs to the start of D3-N03 on p. 285 (PDF 296). Offset +11 holds; p. 278 misprinted '718' with running head 'Dialogus secundus'. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N02-p1.json)."
 }
