@@ -741,3 +741,20 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | interemptorie | peremptorily [interemptorie] | |
 | indiculus | little index [indiculo] | |
 | malus (navis) / arbor navis | mast | ship's-mast experiment |
+| ex medio (tollere) | from the medium [ex medio] | pun: 'out of the way' (D2-N09) |
+| limitatio (motus) | limitation | set by the medium's resistance |
+| praesentanea (causa) | present [praesentanea] | |
+| interpolare | break in upon [interpolasti] | |
+| chiroballista | hand-ballista [chiroballista] | crossbow |
+| cate | shrewdly [cate] | |
+| tormenta | cannon [tormentis] | |
+| ex re | from the matter [Ex re] | |
+| vector | one carried / passenger [vectoris] | |
+| ultroneus | of my own accord [ultroneus] | |
+| per aliud moveri | be moved through another [per aliud] | |
+| confectum est | it is concluded [confectum est] | |
+| circumforaneus | mountebank [circumforaneum] | |
+| hemicyclium | half-hoop [hemicyclio] | |
+| assulatim | in splinters [assulatim] | |
+| bonis avibus | with good birds [bonis avibus] | good auspices |
+| ictus / iactus | blow / throw [iactus] | |

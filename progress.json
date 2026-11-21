@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N09",
-  "part": 2,
-  "next_pdf_page": 232,
+  "unit": "D2-N10",
+  "part": 1,
+  "next_pdf_page": 240,
   "completed": [
     "FM1",
     "FM2",
@@ -28,7 +28,8 @@
     "D2-N05",
     "D2-N06",
     "D2-N07",
-    "D2-N08"
+    "D2-N08",
+    "D2-N09"
   ],
-  "notes": "D2-N09 part 1 done (PDF 223-232 = pp. 212-221). Part 2 starts p. 221 (PDF 232) at 'Ereu. Nescio quid respondeam de pondere ex navis arbore deiecto' and runs to Knot x 'Motum circularem ex vi sua non eiicere insidentia' on p. 229 (PDF 240); after it, mark D2-N09 completed. Knot ix margin title 'Corpus loco moveri'; table title 'Motum localem duobus modis ferri'. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N09-p1.json)."
+  "notes": "D2-N09 complete (part 2: PDF 232-240 = pp. 221-229). Knot x starts p. 229 (PDF 240) at 'Ereu. Prava est mihi memoria; dignaberis itaque permittere' beside margin 'Nodus 10. motum circularem ex vi sua non eiicere imposita' (table title per FM2: 'Motum circularem ex vi sua non eiicere insidentia'). Asphalius' statement of the Ptolemaic objection (tangents and secants) is the end of D2-N09-p2, just before. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N09-p2.json)."
 }
