@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N12",
-  "part": 2,
-  "next_pdf_page": 388,
+  "unit": "D3-N13",
+  "part": 1,
+  "next_pdf_page": 393,
   "completed": [
     "FM1",
     "FM2",
@@ -46,7 +46,8 @@
     "D3-N08",
     "D3-N09",
     "D3-N10",
-    "D3-N11"
+    "D3-N11",
+    "D3-N12"
   ],
-  "notes": "D3-N12 part 1 done (PDF 381-388 = pp. 370-377, ending with Andabata's '...phlebotomiae effectus notantium.' on p. 377). Part 2 begins on p. 377 (PDF 388) with Ereunius' 'Immo video peritissimos eorum totum hunc locum contemnere' (margin on p. 377: 'Praedictionum Astrologicarum genera') and runs to p. 382 (PDF 393), ending with Ereunius' '...donec aliunde nova nobis albescat aurora.'; Knot XIII (margin 'Nodus XIII. Terram in usus hominum esse conditam') begins on p. 382 with Asphalius' 'Te latet itaque hoc ipsum quod acceptas'. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N12-p1.json)."
+  "notes": "D3-N12 complete (part 2: PDF 388-393 = pp. 377-382). Knot XIII (margin 'Nodus XIII. Terram in usus hominum esse conditam') begins on p. 382 (PDF 393) with Asphalius' 'Te latet itaque hoc ipsum quod acceptas'; check the table of nodi (FM2) for where XIV starts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N12-p2.json)."
 }

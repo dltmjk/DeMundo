@@ -1122,3 +1122,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | nihili (effectum) | of nothing | negligible (D3-N12) |
 | inopinabilis | unthinkable [inopinabile] | (D3-N12) |
 | crises (morborum) / phlebotomia | crises / phlebotomy | (D3-N12) |
+| figmentum | figment | astrology as invention (D3-N12) |
+| aequivoca / metaphorica / communia / partialia / perfecta (praedictiones) | equivocal / metaphorical / common / partial / perfect | kinds of prediction (D3-N12) |
+| supra exceptionem | beyond exception | legal (D3-N12) |
+| nedum | much less | (D3-N12) |
+| subvereri | be somewhat afraid [subveriturus sim] | (D3-N12) |
+| cedere dicto non sententia | yield to the saying, not in opinion | (D3-N12) |
+| coniector | conjecturer [coniectorem] | (D3-N12) |
+| sors / ex vi sortis | lot [sortis] / from the force of lot | (D3-N12) |
+| par (sit) | even [par] [odds] | (D3-N12) |
+| aleator / puncta | dicer / points | (D3-N12) |
+| catus calidusque | shrewd [catus] and crafty [calidus] | (D3-N12) |
+| probare (experimenta) | test [probare] | (D3-N12) |
+| immane quantum | monstrously how much | (D3-N12) |
+| famulitium | service [famulitium] | (D3-N12) |
+| ostentatio | display [ostentationem] | (D3-N12) |
