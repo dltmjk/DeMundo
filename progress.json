@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N15",
+  "unit": "D3-N01",
   "part": 1,
-  "next_pdf_page": 272,
+  "next_pdf_page": 276,
   "completed": [
     "FM1",
     "FM2",
@@ -34,7 +34,8 @@
     "D2-N11",
     "D2-N12",
     "D2-N13",
-    "D2-N14"
+    "D2-N14",
+    "D2-N15"
   ],
-  "notes": "D2-N14 complete (PDF 270-272 = pp. 259-261). D2-N15 'Caeterorum Planetarum motus ex declaratis posse aestimari' starts on p. 261 (PDF 272) at 'Ereu. Nolite me in novam vocare operam.' (margin 'Nodus XV'); Dialogue III begins after it (D3-N01; FM2 lists D3 i on its page). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N14.json)."
+  "notes": "D2-N15 complete (PDF 272-274 = pp. 261-263); Dialogue II ends p. 263; p. 264 (PDF 275) blank. D3-N01 'Introductio' begins p. 265 (PDF 276) with the Dialogue III heading 'Dialogus tertius, De duratione & gubernatione Mundi' (differs from FM2's 'de causis Mundi') and 'Etiam te & horum meminisse aequum est' (margin 'Nodus I. Introductio'); D3-N02 starts p. 269 (PDF 280). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N15.json)."
 }

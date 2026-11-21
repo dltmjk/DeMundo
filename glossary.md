@@ -839,3 +839,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | miraculi loco | in the place of a miracle | (D2-N14) |
 | Concilium | Council [Concilium] | the dialogue session (D2-N14) |
 | ieiunus | fasting [ieiunum] | (D2-N14) |
+| quanti species | species of quantity [quanti species] | three dimensions of continuous quantity (D2-N15) |
+| longitudo / latitudo / profunditas | length / breadth / depth | also planetary coordinates (D2-N15) |
+| mediante sole | the sun mediating | (D2-N15) |
+| Analogus (causa) | Analogous [Analogis] | (D2-N15) |
+| conversio ad (solem) | turning [conversio] towards | (D2-N15) |
+| quasi ex machina | as though out of a machine | (D2-N15) |
+| suspicio (-ere) | look up at [suspiciunt] | (D2-N15) |
+| Architectus | Architect [Architectus] | the sun (D2-N15) |
+| allambo | lick around [allambunt] | (D2-N15) |
+| discus / orbis (planetae) | disc / orb | body vs. solid sphere (D2-N15) |
+| sphaera materialis | material sphere | armillary model (D2-N15) |
+| pro rato habere | hold as ratified [pro rato] | (D2-N15) |
+| organum (mundi) | instrument [organum] | (D2-N15) |
+| insipidus (arbiter) | insipid [insipido] | pun on sapiens (D2-N15) |
+| Hispanus sapiens | that wise Spaniard | Alfonso X (D2-N15) |
