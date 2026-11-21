@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N10",
-  "part": 2,
-  "next_pdf_page": 364,
+  "unit": "D3-N11",
+  "part": 1,
+  "next_pdf_page": 372,
   "completed": [
     "FM1",
     "FM2",
@@ -44,7 +44,8 @@
     "D3-N06",
     "D3-N07",
     "D3-N08",
-    "D3-N09"
+    "D3-N09",
+    "D3-N10"
   ],
-  "notes": "D3-N10 part 1 done (PDF 354-364 = pp. 343-353, ends with Asphalius' '...quod prius impossibile aestimabam.' on p. 353). Part 2 starts at Andab. 'Verum tu me prorsus coepisti, video enim ad libertatis humanae cum praede-' on p. 353 (PDF 364), beside margin 'Veritate propositionum de...' (continues p. 354). Knot XI per table p. 362 (PDF 373) - check margin. Note p. 346 misprinted speaker head (Andab. for Asphal.). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N10-p1.json)."
+  "notes": "D3-N10 done (part 2 = PDF 364-372 = pp. 353-361). Knot XI begins INSIDE Ereunius' speech on p. 361 (PDF 372) at 'Verum me tam alienum ab hoc errore habe, ut nihil mali a prima causa ortum habere suspicari possim' (the sentence before, '...ex tota hac disputatione seclusimus.', ended D3-N10). Margin 'Nodus XI. Deum nullius mali esse causam.' stands at top of p. 362 (PDF 373) beside 'convenire ... immemorem'. Next knot (XII) per table - check. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N10-p2.json)."
 }

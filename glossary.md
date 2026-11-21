@@ -1066,3 +1066,20 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | os sublinere | smear the mouth | fool (D3-N10) |
 | repedare | go back | (D3-N10) |
 | necessum est | it is necessary [necessum est] | (D3-N10) |
+| praedefinitio / praefinire | predefinition / predefine | divine decree of free acts (D3-N10 p2) |
+| moderni | the moderns | recent (Molinist) theologians (D3-N10 p2) |
+| futura conditionata | conditioned futures | scientia media objects (D3-N10 p2) |
+| Enunciatio simplex | simple Enunciation | (D3-N10 p2) |
+| voce tenus | as far as the word | merely verbal (D3-N10 p2) |
+| conformis / difformis | conformable / unconformable | (D3-N10 p2) |
+| praecontinere | precontain | (D3-N10 p2) |
+| propensio defectibilis | defectible propension | (D3-N10 p2) |
+| fatum a fando | fate … from speaking | Varro etymology (D3-N10 p2) |
+| fortiter & suaviter | mightily and sweetly | Wisdom 8:1 (D3-N10 p2) |
+| causa per se | the cause through itself | (D3-N10 p2) |
+| secundum quid / simpliciter | in a certain respect / simply | (D3-N10 p2) |
+| respicere ad | look to [respicit] | have regard to (D3-N10 p2) |
+| ad rem / ad voces (pertinere) | to the thing / to the words | (D3-N10 p2) |
+| praefixe | fixedly [praefixe] | (D3-N10 p2) |
+| ultra aras | beyond the altars | amicus usque ad aras (D3-N10 p2) |
+| in tui gratiam / tua causa | for your sake | (D3-N10 p2) |
