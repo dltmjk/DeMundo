@@ -1,7 +1,7 @@
 {
   "unit": "D2-N12",
-  "part": 1,
-  "next_pdf_page": 250,
+  "part": 2,
+  "next_pdf_page": 259,
   "completed": [
     "FM1",
     "FM2",
@@ -33,5 +33,5 @@
     "D2-N10",
     "D2-N11"
   ],
-  "notes": "D2-N11 complete (PDF 247-250 = pp. 236-239, ending 'Accinge itaque te, si libet, ad alia.'). Knot xii starts on p. 239 (PDF 250) with Ereu. 'Si tu quoque, Andabata, eodem es animo...num ex luna putes vapores tolli sicut ex tellure?' (margin 'Nodus XII. Lunam non moveri immediate a sole' stands beside the following Andab. 'Video'). Knot xiii per table of knots (see FM2). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N11.json)."
+  "notes": "D2-N12 part 1 done (PDF 250-259 = pp. 239-248, ending Andab. 'Rarefaciendi saepius inaudivi, condensandi nunquam.'). Part 2 starts on p. 248 (PDF 259) with Ereu. 'Et ego fortassis secus quam oportuerat locutus sum. Rursus itaque peto num vehementiorem horum elementorum motum, non sine condensatione mobilium contin-[gere]...' and runs to the start of Knot xiii ('Astronomiam esse Errori subiectam') on p. 256 (PDF 267); check margin there. Note p. 247 speech 'Nos quidem ab experimento' printed 'Andab.' = misprint for Ereu. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N12-p1.json)."
 }

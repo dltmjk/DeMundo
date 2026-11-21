@@ -778,3 +778,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | ἄτοπα | absurdities [ἄτοπα] | (D2-N11) |
 | nihil nostris debentia | owing nothing to ours | idiom: not inferior (D2-N11) |
 | operae pretium | worth the trouble | (D2-N11) |
+| Meteora | Meteors | all atmospheric phenomena (D2-N12) |
+| cieo / cieri | stir / be stirred | |
+| carceres | barriers | circus stalls |
+| scissilis | divisible [scissiles] | |
+| fixura | fixing [fixura] | anchorage of the moon |
+| dilaceratio | tearing-apart | |
+| largior, non concedo | I bestow, I do not concede | grant for argument's sake |
+| palinodia | palinode | recantation |
+| ab extrinseco | from without | |
+| culminatio | culmination | meridian transit |
+| artifex | craftsman [artifex] | skilled observer |
+| actus (path) | track [actum] | vs suo actu = by its own act |
+| circulus maximus | greatest circle | great circle |
+| quadratura | quadrature | |
+| libratio | balancing [libratione] | |
+| inaudire | hear tell | |
