@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N12",
-  "part": 2,
-  "next_pdf_page": 259,
+  "unit": "D2-N13",
+  "part": 1,
+  "next_pdf_page": 267,
   "completed": [
     "FM1",
     "FM2",
@@ -31,7 +31,8 @@
     "D2-N08",
     "D2-N09",
     "D2-N10",
-    "D2-N11"
+    "D2-N11",
+    "D2-N12"
   ],
-  "notes": "D2-N12 part 1 done (PDF 250-259 = pp. 239-248, ending Andab. 'Rarefaciendi saepius inaudivi, condensandi nunquam.'). Part 2 starts on p. 248 (PDF 259) with Ereu. 'Et ego fortassis secus quam oportuerat locutus sum. Rursus itaque peto num vehementiorem horum elementorum motum, non sine condensatione mobilium contin-[gere]...' and runs to the start of Knot xiii ('Astronomiam esse Errori subiectam') on p. 256 (PDF 267); check margin there. Note p. 247 speech 'Nos quidem ab experimento' printed 'Andab.' = misprint for Ereu. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N12-p1.json)."
+  "notes": "D2-N12 complete (part 2 = PDF 259-267 = pp. 248-256). D2-N13 'Astronomiam esse Errori subiectam ex raritate observationum' starts on p. 256 (PDF 267) with Ereu. 'Enimvero me movet & quam plurimum, Asphali...' (margin 'Nodus XIII'); check the syllogus (FM2) for where Knot xiv starts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N12-p2.json)."
 }

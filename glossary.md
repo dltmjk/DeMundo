@@ -794,3 +794,16 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | quadratura | quadrature | |
 | libratio | balancing [libratione] | |
 | inaudire | hear tell | |
+| deficientia | deficiency [deficientiam] | lunar lag (D2-N12 p2) |
+| gravitare / gravitas | gravitate / heaviness | heaviness = constant motion by extrinsic law |
+| centri rationem habere | have the nature [rationem] of a centre | |
+| parerga | by-works [parerga] | digressions |
+| planus | impostor [planum] | proverb 'male claudicare planum inter claudos' |
+| montestris | mountainous [montestris] | rare adj. |
+| calculus (doctorum) | vote [calculus] | pebble-vote |
+| paegnia / milui | toys [paegnia] / kites [miluos] | |
+| extra litem statuere | set outside the lawsuit | put beyond dispute |
+| nodi / caput & cauda Draconis | nodes [nodis] / Dragon's head and tail | lunar nodes; pun on nodus = Knot |
+| ἀπογειότατα / περιγειότατα | furthest apogees / nearest perigees | |
+| theoria (lunae) | theory [theoriam] | planetary model |
+| terret (Gasco) | {?alarms} [terret] | doubtful sense |
