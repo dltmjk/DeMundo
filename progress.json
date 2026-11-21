@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N08",
+  "unit": "D3-N09",
   "part": 1,
-  "next_pdf_page": 337,
+  "next_pdf_page": 344,
   "completed": [
     "FM1",
     "FM2",
@@ -42,7 +42,8 @@
     "D3-N04",
     "D3-N05",
     "D3-N06",
-    "D3-N07"
+    "D3-N07",
+    "D3-N08"
   ],
-  "notes": "D3-N07 done (PDF 334-337 = pp. 323-326, ends with Andabata's 'Vide itaque ne aliquo impingas.'). Knot VIII ('Deum libere mundum condidisse'; margin 'Deum liberu mundu condidisse') begins p. 326 (PDF 337) near the foot with Ereunius' 'Quod ad Theologiam & fidem spectat'. Knot IX begins p. 335 (PDF 346) per the table, so Knot VIII is ~9 pages (one part). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N07.json)."
+  "notes": "D3-N08 done (PDF 337-344 = pp. 326-333, ends with Ereunius' '...ut apertam reddamus nodi secturam.'). Knot IX ('Deum non esse mutabilem ex eo quod alium mundum condere posset') begins p. 333 (PDF 344) per the MARGIN, with Andabata's 'Non eam inficias esse nodum vere Gordianum' (the table says 335). Knot X starts per the table — check margin. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N08.json)."
 }

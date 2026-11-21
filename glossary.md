@@ -1023,3 +1023,17 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | libere / naturaliter | freely / naturally | free vs natural agency (D3-N07) |
 | impingere | strike [impingas] | run aground (D3-N07) |
 | reponere | reply [reponi] / place back [reponendum] | context (D3-N07) |
+| coactio / coactum | coercion / coerced | opposite of liberty with natura (D3-N08) |
+| electio / eligere | choice / choose | (D3-N08) |
+| consilium / consulere | counsel / counselling | deliberation (D3-N08) |
+| deficere a rectitudine | fall short from rectitude | (D3-N08) |
+| resolutio | resolution [resolutione] | decision of will (D3-N08) |
+| conditio (mundi) | founding [conditionem] | vs conditio = condition (D3-N08) |
+| determinatio ad unum (solitarium) | determination to one (solitary) [thing] | (D3-N08) |
+| praevia determinatio | prior [praeviam] determination | (D3-N08) |
+| de fide | of faith [de fide] | (D3-N08) |
+| officere | hinder [officiat] | (D3-N08) |
+| in communi | in common [in communi] | generically (D3-N08) |
+| temporarius / temporaneus | temporary / temporal | (D3-N08) |
+| immobilitas | immobility | of the first being (D3-N08) |
+| nodi sectura | cutting [secturam] of the knot | Gordian pun (D3-N08) |
