@@ -1098,3 +1098,27 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | memoria tenus | as far as memory [memoria tenus] | rote learning (D3-N11) |
 | pensitator | weigher [pensitatores] | (D3-N11) |
 | lena / suada | procuress / persuasive [suada] | (D3-N11) |
+| adeo (verb, adire) | I go to [her] [Adeo] | answer to ‘Illam adi’ (D3-N12) |
+| litem cernere | decide [cernet] the suit | legal (D3-N12) |
+| artifices | artificers | practitioners of an ars, i.e. astrologers (D3-N12) |
+| supposititius | supposititious [supposititiorum] | substituted, spurious (D3-N12) |
+| lunulae (Iovis) | little moons | Galilean satellites (D3-N12) |
+| stationes / retrogradationes | stations / retrogradations | planetary (D3-N12) |
+| adustus (a radiis solaribus) | burnt [adustae] | combust (D3-N12) |
+| domus (astrological) | house | (D3-N12) |
+| e vestigio | straightway | (D3-N12) |
+| influxus | influx | cf. influentia = influence (D3-N12) |
+| Idolomania | Idolomania | (D3-N12) |
+| horoscopus | horoscope | (D3-N12) |
+| qualitates absconditae | hidden qualities | occult qualities (D3-N12) |
+| obtendere | hold out [as a screen] [obtendi] | (D3-N12) |
+| evincere | convict [evincunt] | (D3-N12) |
+| conflatus | blown together [conflatas] | (D3-N12) |
+| explodere | hiss off [explodenda] | theatrical (D3-N12) |
+| mente captus | captive in mind | insane (D3-N12) |
+| propugnare | champion [propugnaverunt] | (D3-N12) |
+| disputare ad | dispute toward | (D3-N12) |
+| primae qualitates | first qualities | (D3-N12) |
+| nihili (effectum) | of nothing | negligible (D3-N12) |
+| inopinabilis | unthinkable [inopinabile] | (D3-N12) |
+| crises (morborum) / phlebotomia | crises / phlebotomy | (D3-N12) |
