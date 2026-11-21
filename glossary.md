@@ -1037,3 +1037,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | temporarius / temporaneus | temporary / temporal | (D3-N08) |
 | immobilitas | immobility | of the first being (D3-N08) |
 | nodi sectura | cutting [secturam] of the knot | Gordian pun (D3-N08) |
+| mutabilis / mutabilitas | mutable / mutability | possibility of act in the mutable (D3-N09) |
+| plura posse | be able [to do] more [things] | (D3-N09) |
+| saturari (unico actu) | be sated (by a single act) | elective power (D3-N09) |
+| electivus | elective | choosing power (D3-N09) |
+| terminatio / terminare | termination / terminate | act ended at object (D3-N09) |
+| volitio efficax / communis | efficacious / common volition | (D3-N09) |
+| natura prius | prior by nature | (D3-N09) |
+| dici ad | be said in relation to | relative predication (D3-N09) |
+| ultimata volitio | ultimate volition | (D3-N09) |
+| exitus in actum | going-out into act | (D3-N09) |
+| effatum | pronouncement | axiom (D3-N09) |
+| coniugatio | conjugation | combination of causes (D3-N09) |
+| praehaberi | be pre-had | pre-exist in cause (D3-N09) |
+| gubernator / gubernatio / praefectus | governor / government / prefect | (D3-N09) |
+| manus dare | give [my] hands | yield (D3-N09) |
+| coetus | gathering | (D3-N09) |
