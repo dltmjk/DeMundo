@@ -1,7 +1,7 @@
 {
   "unit": "D3-N10",
-  "part": 1,
-  "next_pdf_page": 354,
+  "part": 2,
+  "next_pdf_page": 364,
   "completed": [
     "FM1",
     "FM2",
@@ -46,5 +46,5 @@
     "D3-N08",
     "D3-N09"
   ],
-  "notes": "D3-N09 done (PDF 344-354 = pp. 333-343, ends with Ereunius' '...demonstrationem patefecisti, arbitror.' on p. 343). Knot X ('Fundamentum fati Stoicorum') margin is on p. 343 (PDF 354) beside the middle of Asphalius' speech; start D3-N10 at that speech: 'Asphal. Ego vero reclamo huic iniquae duorum consensioni.' Knot XI per table p. 362 (PDF 373) - check margin. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N09.json)."
+  "notes": "D3-N10 part 1 done (PDF 354-364 = pp. 343-353, ends with Asphalius' '...quod prius impossibile aestimabam.' on p. 353). Part 2 starts at Andab. 'Verum tu me prorsus coepisti, video enim ad libertatis humanae cum praede-' on p. 353 (PDF 364), beside margin 'Veritate propositionum de...' (continues p. 354). Knot XI per table p. 362 (PDF 373) - check margin. Note p. 346 misprinted speaker head (Andab. for Asphal.). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N10-p1.json)."
 }

@@ -1053,3 +1053,16 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | gubernator / gubernatio / praefectus | governor / government / prefect | (D3-N09) |
 | manus dare | give [my] hands | yield (D3-N09) |
 | coetus | gathering | (D3-N09) |
+| contradictoriae | contradictories | (D3-N10) |
+| ex vi contradictionis | from the force of the contradiction | (D3-N10) |
+| futuritio | futurition [futuritio] | status of being future (D3-N10) |
+| futurum contingens | contingent future | future contingents (D3-N10) |
+| ex suppositione / absolute | from supposition / absolutely | conditional necessity (D3-N10) |
+| reduplicatio / τὸ dum | reduplication / the ‘while’ | (D3-N10) |
+| signatus / signate / signare | designated / designatedly / designate | (D3-N10) |
+| conformitas / deformitas | conformity / deformity | truth / falsity (D3-N10) |
+| omnimoda determinatio | every-way determination | (D3-N10) |
+| causae mediae | middle causes | secondary causes (D3-N10) |
+| os sublinere | smear the mouth | fool (D3-N10) |
+| repedare | go back | (D3-N10) |
+| necessum est | it is necessary [necessum est] | (D3-N10) |
