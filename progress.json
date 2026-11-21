@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N01",
+  "unit": "D3-N02",
   "part": 1,
-  "next_pdf_page": 276,
+  "next_pdf_page": 280,
   "completed": [
     "FM1",
     "FM2",
@@ -35,7 +35,8 @@
     "D2-N12",
     "D2-N13",
     "D2-N14",
-    "D2-N15"
+    "D2-N15",
+    "D3-N01"
   ],
-  "notes": "D2-N15 complete (PDF 272-274 = pp. 261-263); Dialogue II ends p. 263; p. 264 (PDF 275) blank. D3-N01 'Introductio' begins p. 265 (PDF 276) with the Dialogue III heading 'Dialogus tertius, De duratione & gubernatione Mundi' (differs from FM2's 'de causis Mundi') and 'Etiam te & horum meminisse aequum est' (margin 'Nodus I. Introductio'); D3-N02 starts p. 269 (PDF 280). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N15.json)."
+  "notes": "D3-N01 complete (PDF 276-280 = pp. 265-269, ends 'ad quem' at top of p. 269). D3-N02 'Motum universi a principio externo esse' begins p. 269 (PDF 280) with 'Ereu. Nosti me interrogationibus procedere solitum' (margin 'Nodus II'); D3-N03 starts p. 285 (PDF 296), so N02 is ~16 pp. and needs 2 parts (part 1 ~pp. 269-277). Offset +11 holds. Dialogue III running head 'de caussis Mundi'; heading 'De Duratione & Gubernatione Mundi'. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N01.json)."
 }

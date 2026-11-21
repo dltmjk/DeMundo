@@ -854,3 +854,23 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | organum (mundi) | instrument [organum] | (D2-N15) |
 | insipidus (arbiter) | insipid [insipido] | pun on sapiens (D2-N15) |
 | Hispanus sapiens | that wise Spaniard | Alfonso X (D2-N15) |
+| famem obsonari | cater for [one's] hunger | Socrates in Cic. Tusc. V.97 (D3-N01) |
+| motus animi | motion of the mind | = agitation; kept literal for the motus play |
+| dissertatio | discourse [dissertatio] | cf. disputatio = disputation, colloquium = colloquy |
+| disputatio | disputation | |
+| fabulari / fabulae | chat / talks | conversation, not 'fables' |
+| sales | salts [salibus] | wit |
+| diverbium | dialogue [diverbium] | comic repartee |
+| prandium / coena | midday meal / supper | |
+| scibilia | the knowables | objects of scientia |
+| fruitio | fruition | Augustinian frui |
+| obiectum | object | object of a power/act |
+| imago (Dei) | image | |
+| instrumentum | instrument | organum = instrument [organum] |
+| speculatio | speculation | |
+| cogitabundus | thoughtful | |
+| ansa | handle [ansam] | occasion |
+| deprecari | entreat [deprecari] | beg off |
+| philtrum | love-potion | |
+| Eques | Horseman | |
+| postquam (causal) | since [postquam] | |
