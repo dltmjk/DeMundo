@@ -1,7 +1,7 @@
 {
   "unit": "D3-N04",
-  "part": 1,
-  "next_pdf_page": 300,
+  "part": 2,
+  "next_pdf_page": 307,
   "completed": [
     "FM1",
     "FM2",
@@ -40,5 +40,5 @@
     "D3-N02",
     "D3-N03"
   ],
-  "notes": "D3-N03 complete (PDF 296-300 = pp. 285-289, ends with Andabata's '...succedentium multitudo.' on p. 289). D3-N04 begins on p. 289 (PDF 300) with Ereunius' 'Haec itaque mutatio qua non est alia prior' (margin 'Nodus IV. Dari aliquod ab aeterno existens'); per table it runs to p. 306 (Nodus v), so ~17 pp: do in two parts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N03.json)."
+  "notes": "D3-N04 part 1 done (PDF 300-307 = pp. 289-296, ends with Andabata's '...satis novi te laboraturum.' on p. 296). Part 2 begins p. 296 (PDF 307) with Ereunius' 'Nunc itaque dimittamus: & postquam consensum est aeterna neque finita, neque infinita...' and runs to Nodus v on p. 306 (check margin). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N04-p1.json)."
 }

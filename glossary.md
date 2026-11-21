@@ -920,3 +920,25 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | debellare | fight out [debellatum erit] | (D3-N03) |
 | puta | suppose [puta] | = 'for instance' (D3-N03) |
 | claritudo | clearness [claritudo] | (D3-N03) |
+| nunquam non extitit | never did not exist | litotes kept (D3-N04) |
+| petitio | question [petitio] | disputation demand (D3-N04) |
+| factio | making [factionem] | act of making (D3-N04) |
+| mediate / immediate | mediately / immediately | mediate cause = accidental, immediate = per se (D3-N04) |
+| evolvere | unroll [evolvo] | work out (D3-N04) |
+| alietas | otherness [alietatis] | (D3-N04) |
+| maioritas | greaterness [maioritas] | (D3-N04) |
+| pendere / dependere | depend [pendere] / depend [dependent] | pendetur (impers.) = there is depending (D3-N04) |
+| ab invicem | from one another [ab invicem] | (D3-N04) |
+| pertransire | pass through [pertransiri] | (D3-N04) |
+| in orbem restim ducere | lead the rope round in a circle | circular causation (D3-N04) |
+| de se | of themselves [de se] | (D3-N04) |
+| singula / omnia; complexe; collective | singulars / all; complexly; collectively | (D3-N04) |
+| ex communi / ex propriis | from the common / from the proper [ex propriis] | Aristotelian proper principles (D3-N04) |
+| subiicere | subjoin [subiecerit] | (D3-N04) |
+| signatum | signate [signatum] | hoc signatum (D3-N04) |
+| extraneus / extrinsecus | extraneous / extrinsic | kept distinct (D3-N04) |
+| causatio | plea [causationem] | excuse (D3-N04) |
+| ultro citroque | to and fro | (D3-N04) |
+| evanidus | vanishing [evanidum] | (D3-N04) |
+| sexcenti | six hundred [sexcentas] | idiom (D3-N04) |
+| ratiocinatio | reasoning [ratiocinatio] | (D3-N04) |
