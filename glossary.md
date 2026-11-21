@@ -1083,3 +1083,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | praefixe | fixedly [praefixe] | (D3-N10 p2) |
 | ultra aras | beyond the altars | amicus usque ad aras (D3-N10 p2) |
 | in tui gratiam / tua causa | for your sake | (D3-N10 p2) |
+| Ens & bonum converti | Being and good to be converted [converti] | convertible transcendentals (D3-N11) |
+| privatio / negatio | privation / negation | evil as privation (D3-N11) |
+| stationes creaturarum | stations [stationes] of creatures | in Deo / in se (D3-N11) |
+| pro rata | in proportion [pro rata] | (D3-N11) |
+| per se connexa | connected per se | vs per accidens (D3-N11) |
+| affixio | affixing [affixionem] | predication (D3-N11) |
+| refundere | pour back [refundi] | trace back to a source (D3-N11) |
+| recudere (in Deum) | strike back [recudatur] | (D3-N11) |
+| nequitia | worthlessness [nequitia] | (D3-N11) |
+| potentia / potentialitas | power / potentiality | (D3-N11) |
+| Mathematici / Mathesis | Mathematicians / Mathesis | = astrologers / astrology in context (D3-N11) |
+| bolis | sounding-lead [bolide] | (D3-N11) |
+| memoria tenus | as far as memory [memoria tenus] | rote learning (D3-N11) |
+| pensitator | weigher [pensitatores] | (D3-N11) |
+| lena / suada | procuress / persuasive [suada] | (D3-N11) |
