@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N04",
-  "part": 2,
-  "next_pdf_page": 307,
+  "unit": "D3-N05",
+  "part": 1,
+  "next_pdf_page": 317,
   "completed": [
     "FM1",
     "FM2",
@@ -38,7 +38,8 @@
     "D2-N15",
     "D3-N01",
     "D3-N02",
-    "D3-N03"
+    "D3-N03",
+    "D3-N04"
   ],
-  "notes": "D3-N04 part 1 done (PDF 300-307 = pp. 289-296, ends with Andabata's '...satis novi te laboraturum.' on p. 296). Part 2 begins p. 296 (PDF 307) with Ereunius' 'Nunc itaque dimittamus: & postquam consensum est aeterna neque finita, neque infinita...' and runs to Nodus v on p. 306 (check margin). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N04-p1.json)."
+  "notes": "D3-N04 done (part 2 = PDF 307-317 = pp. 296-306, ends with Andabata's 'Nihil certius.'). Knot V ('Ens a se unicum esse & caeterorum causam') begins p. 306 (PDF 317) mid-page with Ereunius' 'Ergo si poneretur existentiae subsistentis seu existentis esse aliqua ratio...'; check the table of nodi for where Knot VI starts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N04-p2.json)."
 }

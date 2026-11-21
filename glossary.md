@@ -942,3 +942,21 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | evanidus | vanishing [evanidum] | (D3-N04) |
 | sexcenti | six hundred [sexcentas] | idiom (D3-N04) |
 | ratiocinatio | reasoning [ratiocinatio] | (D3-N04) |
+| saxum movere | move this stone [saxum movere] | proverb: labour in vain (D3-N04 p2) |
+| inexsistere | exist-in [inextitisse] | + dative (D3-N04 p2) |
+| infecta fieri | become undone | factum infectum fieri nequit (D3-N04 p2) |
+| ficticius / fictio precaria | feignable [ficticia] / precarious fiction | imaginary time (D3-N04 p2) |
+| implicatorius | implicatory | self-contradictory (D3-N04 p2) |
+| potentia intrinseca/naturalis vs extrinseca/Logicalis | intrinsic/natural vs extrinsic/Logical potency | (D3-N04 p2) |
+| incompossibilis | incompossible | (D3-N04 p2) |
+| in indivisibili | in an indivisible | non-successively (D3-N04 p2) |
+| digladiatio | sword-fight [digladiatione] | disputation (D3-N04 p2) |
+| corpore vitare | avoid with the body | dodge (D3-N04 p2) |
+| dolo malo / ratam facere / praestare | with evil fraud / make ratified / perform | legal conceit (D3-N04 p2) |
+| inescatus / illaqueare | baited / ensnare | (D3-N04 p2) |
+| necessitas effectiva / formalis | effective / formal necessity | (D3-N04 p2) |
+| identitas / unitas minor / simplicitas | identity / lesser unity / simplicity | (D3-N04 p2) |
+| τὸ quo | the ‘that by which’ | quo est (D3-N04 p2) |
+| contra dividi | be divided against | (D3-N04 p2) |
+| gradus et dispositiones ad existentiam | grades and dispositions to existence | (D3-N04 p2) |
+| evincere | carry it [Evicisti] | (D3-N04 p2) |
