@@ -960,3 +960,29 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | contra dividi | be divided against | (D3-N04 p2) |
 | gradus et dispositiones ad existentiam | grades and dispositions to existence | (D3-N04 p2) |
 | evincere | carry it [Evicisti] | (D3-N04 p2) |
+| differentiae superveniunt (rationi) | differences supervene (upon a notion) | genus contracted by differences (D3-N05) |
+| ratio (as concept) | notion [ratio] | formal concept; 'reason' for faculty/ground (D3-N05) |
+| pote | can [pote] | archaic = potest (D3-N05) |
+| stipes / bliteus | log / insipid | jibe at non-intelligent God (D3-N05) |
+| intelligens | understanding [intelligentem] | participle kept (D3-N05) |
+| collatio | comparing [collatione] | (D3-N05) |
+| plura ut plura | more [things] as more | mark of intellect (D3-N05) |
+| e diverso | on the contrary | (D3-N05) |
+| calumniari | make a false charge [calumnior] | cavil (D3-N05) |
+| coniugus | yoked [coniuga] | rare; ? misprint (D3-N05) |
+| immutatio a se | change from itself | (D3-N05) |
+| inexistendi potestas | power of in-existing | (D3-N05) |
+| casses | nets | (D3-N05) |
+| desidiosus / desidere | idle / sit idle | why did God not create sooner (D3-N05) |
+| seges (electionis) | crop [seges] | (D3-N05) |
+| praelatio | preference [praelationis] | (D3-N05) |
+| praeeligere | prefer [praeeligat] | (D3-N05) |
+| praeiudicium | prejudgement [praeiudicii] | (D3-N05) |
+| deprecari | beg off [deprecor] | (D3-N05) |
+| prospectiva (ars) | perspective | (D3-N05) |
+| defectilis / defectivus | deficient / defective | kept distinct (D3-N05) |
+| suppar | nearly-equal [supparia] | ? misprint for disparia (D3-N05) |
+| omnimodus | every-way [omnimodam] | (D3-N05) |
+| praeexistere | pre-exist | priority of necessity, not time (D3-N05) |
+| assuetudo / fixio | habituation / fixing | (D3-N05) |
+| caligo (puri luminis) | darkness [caliginem] | (D3-N05) |

@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N05",
+  "unit": "D3-N06",
   "part": 1,
-  "next_pdf_page": 317,
+  "next_pdf_page": 326,
   "completed": [
     "FM1",
     "FM2",
@@ -39,7 +39,8 @@
     "D3-N01",
     "D3-N02",
     "D3-N03",
-    "D3-N04"
+    "D3-N04",
+    "D3-N05"
   ],
-  "notes": "D3-N04 done (part 2 = PDF 307-317 = pp. 296-306, ends with Andabata's 'Nihil certius.'). Knot V ('Ens a se unicum esse & caeterorum causam') begins p. 306 (PDF 317) mid-page with Ereunius' 'Ergo si poneretur existentiae subsistentis seu existentis esse aliqua ratio...'; check the table of nodi for where Knot VI starts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N04-p2.json)."
+  "notes": "D3-N05 done (PDF 317-326 = pp. 306-315, ends with Asphalius' '...tot ab eo creabilibus praetulerit.'). Knot VI ('Mundum qui est esse creabilium optimum') begins p. 315 (PDF 326) mid-page with Ereunius' 'Si me consulis, quia hic omnium optimus est' (margin 'Nodus VI'); Knot VII begins p. 323 (PDF 334). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N05.json)."
 }
