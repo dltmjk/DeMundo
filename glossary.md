@@ -1007,3 +1007,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | causalitas finalis | final causality | (D3-N06) |
 | virtus (causal) | power [virtutem] | 'virtue' when moral (D3-N06) |
 | incommodus | unfitting [incommodas] | (D3-N06) |
+| motivum | motive [motivo] | final cause as moving the will (D3-N07) |
+| bonum respectivum | relative [respectivum] good | (D3-N07) |
+| allicere / pellicere | allure / entice | kept distinct (D3-N07) |
+| honestum / utile | the honest / the useful | Ciceronian division of goods (D3-N07) |
+| denominatio Analogica | Analogical denomination | ‘healthy’ example, analogy of attribution (D3-N07) |
+| signate | expressly [signate] | (D3-N07) |
+| iuxta (adv.) | likewise [iuxta] | (D3-N07) |
+| rectitudo / recta voluntas | rectitude / right will | (D3-N07) |
+| dilectio | love [dilectione] | cf. amor = love (D3-N07) |
+| derivari | be drawn down [derivatur] | (D3-N07) |
+| terrarum orbis | orb of the lands | = world (D3-N07) |
+| auctrix | authoress [auctrix] | (D3-N07) |
+| potentiam fugere | flee power | be beyond power, impossible (D3-N07) |
+| libere / naturaliter | freely / naturally | free vs natural agency (D3-N07) |
+| impingere | strike [impingas] | run aground (D3-N07) |
+| reponere | reply [reponi] / place back [reponendum] | context (D3-N07) |

@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N07",
+  "unit": "D3-N08",
   "part": 1,
-  "next_pdf_page": 334,
+  "next_pdf_page": 337,
   "completed": [
     "FM1",
     "FM2",
@@ -41,7 +41,8 @@
     "D3-N03",
     "D3-N04",
     "D3-N05",
-    "D3-N06"
+    "D3-N06",
+    "D3-N07"
   ],
-  "notes": "D3-N06 done (PDF 326-334 = pp. 315-323, ends with Ereunius' '...potuerint non fuisse.'). Knot VII ('Quomodo Deus propter suam bonitatem mundum condiderit?') begins p. 323 (PDF 334) mid-page with Asphalius' 'Nescio quomodo fiat ut cum eripueris' (margin 'Nodus VII'). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N06.json)."
+  "notes": "D3-N07 done (PDF 334-337 = pp. 323-326, ends with Andabata's 'Vide itaque ne aliquo impingas.'). Knot VIII ('Deum libere mundum condidisse'; margin 'Deum liberu mundu condidisse') begins p. 326 (PDF 337) near the foot with Ereunius' 'Quod ad Theologiam & fidem spectat'. Knot IX begins p. 335 (PDF 346) per the table, so Knot VIII is ~9 pages (one part). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N07.json)."
 }
