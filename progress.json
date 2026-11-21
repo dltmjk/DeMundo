@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N02",
-  "part": 2,
-  "next_pdf_page": 289,
+  "unit": "D3-N03",
+  "part": 1,
+  "next_pdf_page": 296,
   "completed": [
     "FM1",
     "FM2",
@@ -36,7 +36,8 @@
     "D2-N13",
     "D2-N14",
     "D2-N15",
-    "D3-N01"
+    "D3-N01",
+    "D3-N02"
   ],
-  "notes": "D3-N02 part 1 done (PDF 280-289 = pp. 269-278, ends with Asphalius' '...aperias.' on p. 278). Part 2 begins p. 278 (PDF 289) with 'Ereu. Ad ardua me cogis' (margin 'Incorporea non mota movere') and runs to the start of D3-N03 on p. 285 (PDF 296). Offset +11 holds; p. 278 misprinted '718' with running head 'Dialogus secundus'. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N02-p1.json)."
+  "notes": "D3-N02 complete (part 2: PDF 289-296 = pp. 278-285, ends with Asphalius' '...nos perducito.' on p. 285). D3-N03 begins on p. 285 (PDF 296) with Ereunius' 'Rem magnam postulas' (margin 'Nodus III. Motum ab aeterno non extitisse'). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N02-p2.json)."
 }

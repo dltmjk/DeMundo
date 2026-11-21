@@ -889,3 +889,20 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | fidem facere | make faith | (D3-N02) |
 | materiatum (agens) | materiate [materiatum] | (D3-N02) |
 | extricare | extricate / untie [extricandus] | (D3-N02) |
+| insuper habere | hold of no account [insuper habeas] | (D3-N02 p2; cf. above) |
+| comparativa potestas | comparative power | power of relating many objects at once (D3-N02 p2) |
+| simul & semel | at once and once for all | non-successive spiritual act (D3-N02 p2) |
+| secundum unum esse & actum | according to one being [esse] and act | (D3-N02 p2) |
+| capitis diminutio / in ius vocare / censura | diminution of head / summon into court / censure | Roman-law conceit (D3-N02 p2) |
+| talio | the like [talionem] | (D3-N02 p2) |
+| lis intenta | suit brought [intenta] | (D3-N02 p2) |
+| Caietanus | Cajetan | Thomas de Vio (D3-N02 p2) |
+| discludere | disclose [discludi] | (D3-N02 p2) |
+| propensio (intellectualis) | propension [propensione] | (D3-N02 p2) |
+| genus entis | kind of being | (D3-N02 p2) |
+| inalterabilitas (Coeli) | unalterability | (D3-N02 p2) |
+| Pyrrhica | Pyrrhic [dance] | war-dance (D3-N02 p2) |
+| autumare | declare [autumaverunt] | (D3-N02 p2) |
+| discursus | discourse [discursus] | reasoning; cf. dissertatio (D3-N02 p2) |
+| ex libito | at pleasure | (D3-N02 p2) |
+| pridie | the day before | (D3-N02 p2) |
