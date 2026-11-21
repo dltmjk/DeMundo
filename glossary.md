@@ -825,3 +825,17 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | occurrentes | those who come in the way [occurrentibus] | (D2-N13) |
 | foelix | fortunate [foelicium] | (D2-N13) |
 | liberi (homines) | free [liberorum] [men] | (D2-N13) |
+| Bulimia | Bulimia [Bulimiam] | insatiable craving (D2-N14) |
+| Phaenomena | Phaenomena | 'saving the phenomena' (D2-N14) |
+| Anomalia | Anomaly [Anomaliis] | technical planetary inequality (D2-N14) |
+| apparenter | apparently [apparenter] | likely = manifestly (D2-N14) |
+| elatior / depressior (a centro) | more raised / more depressed | distance from centre of motion (D2-N14) |
+| Idolomania | Idolomania [Idolomaniam] | star-worship (D2-N14) |
+| robur (fixum existat) | strength [robore] | firmness of proof (D2-N14) |
+| circuli constanter lati | circles constantly carried [latis] | uniform rotation (D2-N14) |
+| numeratus | numbered [numerati] | finite (D2-N14) |
+| machinae / congressio | machines / concourse | compounded circles (D2-N14) |
+| audens dixerim | daring I would say | (D2-N14) |
+| miraculi loco | in the place of a miracle | (D2-N14) |
+| Concilium | Council [Concilium] | the dialogue session (D2-N14) |
+| ieiunus | fasting [ieiunum] | (D2-N14) |

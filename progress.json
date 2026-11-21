@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N14",
+  "unit": "D2-N15",
   "part": 1,
-  "next_pdf_page": 270,
+  "next_pdf_page": 272,
   "completed": [
     "FM1",
     "FM2",
@@ -33,7 +33,8 @@
     "D2-N10",
     "D2-N11",
     "D2-N12",
-    "D2-N13"
+    "D2-N13",
+    "D2-N14"
   ],
-  "notes": "D2-N13 complete (PDF 267-270 = pp. 256-259). D2-N14 'Falsam esse motus circularis suppositionem' starts on p. 259 (PDF 270) mid-speech of Ereunius at 'Oblitus eram malorum si non maximum...' (margin 'Nodus XIV'); D2-N15 starts p. 261 per FM2. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N13.json)."
+  "notes": "D2-N14 complete (PDF 270-272 = pp. 259-261). D2-N15 'Caeterorum Planetarum motus ex declaratis posse aestimari' starts on p. 261 (PDF 272) at 'Ereu. Nolite me in novam vocare operam.' (margin 'Nodus XV'); Dialogue III begins after it (D3-N01; FM2 lists D3 i on its page). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N14.json)."
 }
