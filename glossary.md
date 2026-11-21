@@ -906,3 +906,17 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | discursus | discourse [discursus] | reasoning; cf. dissertatio (D3-N02 p2) |
 | ex libito | at pleasure | (D3-N02 p2) |
 | pridie | the day before | (D3-N02 p2) |
+| necessum est | it is necessary [necessum est] | archaic for necesse (D3-N03) |
+| hebescere | be dull [hebesco] | (D3-N03) |
+| tempus imaginarium | imaginary time | cf. spatium imaginarium (D3-N03) |
+| placor | calm [placorem] | rare (D3-N03) |
+| compositio in re / in mente | composition in the thing / in the mind | real vs propositional (D3-N03) |
+| non posse non esse | cannot not-be | hyphen keeps modal scope (D3-N03) |
+| τὸ (+ Latin phrase) | the ‘…’ | substantivising article (D3-N03) |
+| palam | openly [palam] / It is open | (D3-N03) |
+| aqua haeret | the water sticks [aqua haeret] | proverb: I am stuck (D3-N03) |
+| Datum habes | You have [it] granted | disputation formula (D3-N03) |
+| circuitio | circuit [circuitione] | detour / flanking (D3-N03) |
+| debellare | fight out [debellatum erit] | (D3-N03) |
+| puta | suppose [puta] | = 'for instance' (D3-N03) |
+| claritudo | clearness [claritudo] | (D3-N03) |

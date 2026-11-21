@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N03",
+  "unit": "D3-N04",
   "part": 1,
-  "next_pdf_page": 296,
+  "next_pdf_page": 300,
   "completed": [
     "FM1",
     "FM2",
@@ -37,7 +37,8 @@
     "D2-N14",
     "D2-N15",
     "D3-N01",
-    "D3-N02"
+    "D3-N02",
+    "D3-N03"
   ],
-  "notes": "D3-N02 complete (part 2: PDF 289-296 = pp. 278-285, ends with Asphalius' '...nos perducito.' on p. 285). D3-N03 begins on p. 285 (PDF 296) with Ereunius' 'Rem magnam postulas' (margin 'Nodus III. Motum ab aeterno non extitisse'). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N02-p2.json)."
+  "notes": "D3-N03 complete (PDF 296-300 = pp. 285-289, ends with Andabata's '...succedentium multitudo.' on p. 289). D3-N04 begins on p. 289 (PDF 300) with Ereunius' 'Haec itaque mutatio qua non est alia prior' (margin 'Nodus IV. Dari aliquod ab aeterno existens'); per table it runs to p. 306 (Nodus v), so ~17 pp: do in two parts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N03.json)."
 }
