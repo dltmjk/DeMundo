@@ -807,3 +807,21 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | ἀπογειότατα / περιγειότατα | furthest apogees / nearest perigees | |
 | theoria (lunae) | theory [theoriam] | planetary model |
 | terret (Gasco) | {?alarms} [terret] | doubtful sense |
+| experimentum (astronomical) | experiment [experimento] | = a single observation (D2-N13) |
+| raritas observationum | rarity of observations | (D2-N13) |
+| inventu (supine) | to find [inventu] | (D2-N13) |
+| ratio annorum | reckoning [ratio] of the years | chronology (D2-N13) |
+| sensatus | sensible [sensatos] | (D2-N13) |
+| ludos facere | make games [ludos] | play tricks (D2-N13) |
+| Torquetum Hassianum | Hessian Torquetum | Kassel observatory (D2-N13) |
+| ambiguae audiunt | are spoken of [audiunt] as ambiguous | (D2-N13) |
+| conservabilis | preservable [conservabilia] | (D2-N13) |
+| vis refractiva / refractio | refractive force / refraction | (D2-N13) |
+| ius | right [ius] | jurisdiction (D2-N13) |
+| Lincolniense hospitium | Lincoln's Inn | (D2-N13) |
+| Ulyssipo | Lisbon [Ulyssipone] | (D2-N13) |
+| urinator | diver [urinatores] | (D2-N13) |
+| immedicabilis | incurable [immedicabilis] | (D2-N13) |
+| occurrentes | those who come in the way [occurrentibus] | (D2-N13) |
+| foelix | fortunate [foelicium] | (D2-N13) |
+| liberi (homines) | free [liberorum] [men] | (D2-N13) |
