@@ -1,7 +1,7 @@
 {
-  "unit": "D2-N10",
+  "unit": "D2-N11",
   "part": 1,
-  "next_pdf_page": 240,
+  "next_pdf_page": 247,
   "completed": [
     "FM1",
     "FM2",
@@ -29,7 +29,8 @@
     "D2-N06",
     "D2-N07",
     "D2-N08",
-    "D2-N09"
+    "D2-N09",
+    "D2-N10"
   ],
-  "notes": "D2-N09 complete (part 2: PDF 232-240 = pp. 221-229). Knot x starts p. 229 (PDF 240) at 'Ereu. Prava est mihi memoria; dignaberis itaque permittere' beside margin 'Nodus 10. motum circularem ex vi sua non eiicere imposita' (table title per FM2: 'Motum circularem ex vi sua non eiicere insidentia'). Asphalius' statement of the Ptolemaic objection (tangents and secants) is the end of D2-N09-p2, just before. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N09-p2.json)."
+  "notes": "D2-N10 complete (PDF 240-246 = pp. 229-235). Knot xi starts p. 236 (PDF 247) at 'Ereu. Doctissima prorsus & subtilissima est haec dissertatio' beside margin 'Nodus XI. Angulum contingentiae non esse quolibet rectilineo minorem'; margin on p. 236 refers to 'tabula Figurarum 5'. Knot xii per table at p. 239 (PDF 250). Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D2-N10.json)."
 }

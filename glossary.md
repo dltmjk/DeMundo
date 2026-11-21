@@ -758,3 +758,13 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | assulatim | in splinters [assulatim] | |
 | bonis avibus | with good birds [bonis avibus] | good auspices |
 | ictus / iactus | blow / throw [iactus] | |
+| situla | bucket | Galileo's whirled-bucket example (D2-N10) |
+| fundibularius / funda | slinger / sling | (D2-N10) |
+| eiicere / eiectio | cast off / ejection | Ptolemaic objection to the earth's rotation (D2-N10) |
+| tangens / secans / contactus | tangent / secant / contact | Galileo's tangent-secant demonstration (D2-N10) |
+| proportio multiplex | multiple proportion | (D2-N10) |
+| angulus semirectus | half-right angle | 45° (D2-N10) |
+| virtus proiiciens | projecting virtue | (D2-N10) |
+| per modum suppositionis / assertionis | by way of supposition / of assertion | (D2-N10) |
+| stratum / lectus | bed | dialogue setting (D2-N10) |
+| mancus | maimed | (D2-N10) |
