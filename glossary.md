@@ -1204,3 +1204,20 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | diffluere | flow apart [diffluant] | be dissipated (D3-N16) |
 | uber (bonitatis) | udder [ubere] | (D3-N16) |
 | consistere | stand [consistere] | be coherent (D3-N16) |
+| iucunditas / iucundum | pleasantness / the pleasant | mind's enjoyment; kept apart from voluptas (D3-N16 p2) |
+| voluptas | pleasure | particular pleasures (D3-N16 p2) |
+| foelicitas | happiness [foelicitas] | this-worldly; cf. beatitudo (D3-N16 p2) |
+| potitio | getting-possession [potitionem] | (D3-N16 p2) |
+| animus / mens | mind [animus] / mind [mens] | bracket both to keep apart (D3-N16 p2) |
+| defectibilis | defectible | liable to fail (D3-N16 p2) |
+| capita | heads | grounds of argument (D3-N16 p2) |
+| extensio / intensio | extension / intension | duration / degree (D3-N16 p2) |
+| studiosi | the studious [studiosorum] | = σπουδαῖοι, the good (D3-N16 p2) |
+| probi / improbi / impii | the upright / the wicked / the impious | (D3-N16 p2) |
+| facultates | resources [facultatibus] | wealth (D3-N16 p2) |
+| collectio | collection [collectione] | inference (D3-N16 p2) |
+| experimenta | experiments [experimenta] | empirical observation (D3-N16 p2) |
+| praecordia | praecordia | heart region; Georg. II.484 (D3-N16 p2) |
+| Acherusia | Acherusia | Lucr. III.1023 (D3-N16 p2) |
+| dido (didi) | distribute [didi] | (D3-N16 p2) |
+| ludos facere | make games [ludos] | = make a fool of (D3-N16 p2) |
