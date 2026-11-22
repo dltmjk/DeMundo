@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N16",
-  "part": 3,
-  "next_pdf_page": 431,
+  "unit": "D3-N17",
+  "part": 1,
+  "next_pdf_page": 435,
   "completed": [
     "FM1",
     "FM2",
@@ -52,7 +52,9 @@
     "D3-N14",
     "D3-N15",
     "D3-N16-p1",
-    "D3-N16-p2"
+    "D3-N16-p2",
+    "D3-N16-p3",
+    "D3-N16"
   ],
-  "notes": "D3-N16 part 2 complete (PDF 422-431 = pp. 411-420), ending at Asphalius' 'Sic est.' on p. 420 (after Ereunius' question about pleasure from food and Venus). Part 3 begins on p. 420 (PDF 431, lower half) with Ereunius' 'Vides itaque virtutem & prudentiam viam & per se causas esse voluptatis etiam corporeae' and runs to the start of Knot XVII on p. 424 (PDF 435) per the table. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N16-p2.json)."
+  "notes": "D3-N16 complete (part 3: PDF 431-435 = pp. 420-424), ending with Asphalius' '...non alia posthac quaeram oracula.' at the top of p. 424. Knot XVII (Cur plerique hominum a beatitudine excidant) begins on p. 424 (PDF 435) with Ereunius' 'Ego vero nihil polliceor. Sed quoniam hoc me levasti onere...' (margin beside 'suppono nationem'; Knot started at the speaker break). Check the table for Knot XVIII's page to decide on parts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N16-p3.json)."
 }

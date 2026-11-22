@@ -1221,3 +1221,12 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | Acherusia | Acherusia | Lucr. III.1023 (D3-N16 p2) |
 | dido (didi) | distribute [didi] | (D3-N16 p2) |
 | ludos facere | make games [ludos] | = make a fool of (D3-N16 p2) |
+| subsultim | by leaps [subsultim] | fits and starts (D3-N16 p3) |
+| praeventus (amore) | forestalled [praeventus] | cf. prevenient (D3-N16 p3) |
+| commoda | advantages [commoda] | external/temporal goods (D3-N16 p3) |
+| modus (voluptatum) | measure [modus] | ethical mean, not 'mode' (D3-N16 p3) |
+| hilaris / hilaritas / suavitas | cheerful / cheerfulness / sweetness | (D3-N16 p3) |
+| sub persona | under the person [persona] | prosopopoeia (D3-N16 p3) |
+| Phyllida solus habeto | have Phyllis alone | Ecl. 3.107 (D3-N16 p3) |
+| gens (humana) | race [gentem] | mankind (D3-N16 p3) |
+| gubernatio | governance [gubernationis] | providential (D3-N16 p3) |
