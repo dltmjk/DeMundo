@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N18",
+  "unit": "D3-N19",
   "part": 1,
-  "next_pdf_page": 446,
+  "next_pdf_page": 454,
   "completed": [
     "FM1",
     "FM2",
@@ -55,7 +55,8 @@
     "D3-N16-p2",
     "D3-N16-p3",
     "D3-N16",
-    "D3-N17"
+    "D3-N17",
+    "D3-N18"
   ],
-  "notes": "D3-N17 complete (PDF 435-446 = pp. 424-435), ending with Ereunius' 'Age itaque, Andabata: Quid ais esse motum?' on p. 435. Knot XVIII (An mundus sit finiendus?) begins on p. 435 (PDF 446) with Andabata's answer 'Actum entis in potentia prout in potentia...' (margin 'Nodus XVIII'). Knot XIX starts p. 443 (PDF 454), so XVIII is ~8 pages: one part. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N17.json)."
+  "notes": "D3-N18 complete (PDF 446-454 = pp. 435-443), ending mid-speech of Ereunius at '...mundum, videlicet, ex necessitate finem habiturum.' on p. 443. Knot XIX (Quando finis mundi sit futurus?) begins on p. 443 (PDF 454) with Ereunius' next sentence 'Quando inquies? Nescio cum enim ex animorum ratione...' (margin 'Nodus XIX' beside '(Horum autem quis sit...'); start the row with '[Ereu., continuing]'. XIX is the last Knot: check where the book ends (PDF 475 total; may include an errata/privilege) and set finished:true after it. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N18.json)."
 }

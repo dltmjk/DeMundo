@@ -1246,3 +1246,17 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | Elementa (Metaphysica) | elements | books of White's metaphysics (D3-N17) |
 | rudis | wooden sword [rudem] | gladiator's discharge (D3-N17) |
 | intercedere | interpose [intercedo] | tribunician veto (D3-N17) |
+| actus entis in potentia prout in potentia | act of a being in potency according as in potency | Aristotle's definition of motion, Phys. III.1 (D3-N18) |
+| terminus a quo / ad quem | term from which / to which | (D3-N18) |
+| intendi (motus) | be intended | aimed at as end, not 'intensified' (D3-N18) |
+| mixta | mixed [bodies] | elemental compounds (D3-N18) |
+| saecula (animalium) | generations [saecula] | (D3-N18) |
+| Entia nolunt male gubernari | beings will not be governed badly | Metaph. Λ10 (D3-N18) |
+| causa negativa | negative cause | (D3-N18) |
+| passum dare | give a step [passum] | advance (D3-N18) |
+| aeviternus | aeviternal | of aevum (D3-N18) |
+| evadere | come out [evasurum] | be completed (D3-N18) |
+| necessum | necessary [necessum] | = necesse (D3-N18) |
+| educibilis | able to be educed | eductio formarum (D3-N18) |
+| valde bonum | very good | Gen. 1:31 (D3-N18) |
+| scire posse appellant | call knowing a power [posse] | active potency (D3-N18) |
