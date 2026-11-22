@@ -1187,3 +1187,20 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | indifferentia | indifference | liberty of indifference (D3-N15) |
 | aestimativa | the estimative | internal sense (D3-N15) |
 | spiritus (animales) | spirits | Galenic animal spirits (D3-N15) |
+| res gerere / geri | carry on / be carried on [geri] | conduct affairs; res gestae = things done (D3-N16) |
+| gratia (artificum) | favour [gratia] | esteem by merit of art; Eccl. 9:11 (D3-N16) |
+| causari | plead [causari] | allege as excuse (D3-N16) |
+| cataphragma | covering-armour [cataphragma] | body's protective coverings (D3-N16) |
+| phantasma | phantasm [phantasmatum] | mental image in the brain (D3-N16) |
+| appetitus sensitivus | sensitive appetite | (D3-N16) |
+| τῷ magis & minus | by the 'more and less' | difference of degree (D3-N16) |
+| medium (virtutis) | mean [medio] | Aristotelian mean (D3-N16) |
+| prudentia | prudence | phronesis, concerns singulars (D3-N16) |
+| singularia | singulars | particulars (D3-N16) |
+| conficere (conficitur) | conclude [conficitur] | establish by argument (D3-N16) |
+| per accidens / per se (causae) | by accident / by themselves | (D3-N16) |
+| usuvenire | come about [usuvenire] | (D3-N16) |
+| addictus | made over [addictum] | assigned, devoted (D3-N16) |
+| diffluere | flow apart [diffluant] | be dissipated (D3-N16) |
+| uber (bonitatis) | udder [ubere] | (D3-N16) |
+| consistere | stand [consistere] | be coherent (D3-N16) |

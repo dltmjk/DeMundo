@@ -1,7 +1,7 @@
 {
   "unit": "D3-N16",
-  "part": 1,
-  "next_pdf_page": 413,
+  "part": 2,
+  "next_pdf_page": 422,
   "completed": [
     "FM1",
     "FM2",
@@ -50,7 +50,8 @@
     "D3-N12",
     "D3-N13",
     "D3-N14",
-    "D3-N15"
+    "D3-N15",
+    "D3-N16-p1"
   ],
-  "notes": "D3-N15 complete (PDF 405-412 = pp. 394-401), ending at Andabata's '...addita Iuno nusquam aberit.' on p. 401. Knot XVI (margin 'Nodus XVI. Cur res humanae videantur casu geri', p. 402 = PDF 413) begins with Asphalius' 'Hanc itaque non levem querelam hominum mitiga'. Knot XVII starts p. 424 per table, so XVI (~22 pp.) needs parts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N15.json)."
+  "notes": "D3-N16 part 1 complete (PDF 413-422 = pp. 402-411), ending at Asphalius' '...ut credi tibi ab his qui demonstrationi tuae sunt impares, assequaris.' on p. 411. Part 2 begins on p. 411 (PDF 422, lower half) with Ereunius' 'Ego vero quod in me est libens exequar.' Knot XVII starts p. 424 per table (PDF 435); XVI remaining ~13 pp., so do part 2 to about p. 419-420 and part 3 to p. 424. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N16-p1.json)."
 }
