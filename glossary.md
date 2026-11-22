@@ -1230,3 +1230,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | Phyllida solus habeto | have Phyllis alone | Ecl. 3.107 (D3-N16 p3) |
 | gens (humana) | race [gentem] | mankind (D3-N16 p3) |
 | gubernatio | governance [gubernationis] | providential (D3-N16 p3) |
+| contingentia (naturae) | contingency [contingentia] | liability to fail; man most contingent (D3-N17) |
+| cognoscentes creaturae | knowing creatures | intellectual creatures (D3-N17) |
+| beatitas | blessedness [beatitas] | kept apart from beatitudo 'beatitude' (D3-N17) |
+| massa (hominum) | mass [massam] | mankind as a whole (D3-N17) |
+| melioratio / ratio entis | betterment / account of being | (D3-N17) |
+| voli / volitur | be willed / is willed | scholastic passive of velle (D3-N17) |
+| praevisio | foresight [praevisione] | (D3-N17) |
+| praestructio / praestruere | advance-building / build in advance | (D3-N17) |
+| scita (Theologiae) | decrees [scita] | (D3-N17) |
+| intimare | intimate [intimandum] | enjoin officially (D3-N17) |
+| illustratrix | illuminatrix [illustratrix] | (D3-N17) |
+| numen | divine power [numine] | (D3-N17) |
+| philautia | self-love [philautia] | (D3-N17) |
+| Elementa (Metaphysica) | elements | books of White's metaphysics (D3-N17) |
+| rudis | wooden sword [rudem] | gladiator's discharge (D3-N17) |
+| intercedere | interpose [intercedo] | tribunician veto (D3-N17) |
