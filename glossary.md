@@ -1158,3 +1158,17 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | numen | deity [numinis] | (D3-N13) |
 | Imperator (summus) | Commander [Imperatori] | God (D3-N13) |
 | praecognitus | foreknown [praecogniti] | (D3-N13) |
+| vis discurrendi / discurrere | power of discoursing [discurrendi] | reasoning from known to unknown (D3-N14) |
+| vel … certe | or at any rate | idiom 'or at least' (D3-N14) |
+| affectus | affection [affectus] | appetitive inclination (D3-N14) |
+| collocatio | placing [collocationem] | settling of the affection (D3-N14) |
+| appellere (appellitur) | be brought to land | nautical; not appellare (D3-N14) |
+| sistere (sistitur) | make to stand | vs fluctuare (D3-N14) |
+| sui iuris | of one's own right [sui iuris] | Roman-law independence (D3-N14) |
+| arbitrium sui | choice of oneself [sui] | self-control (D3-N14) |
+| potestas | power [potestas] | kept distinct from potentia = potency (D3-N14) |
+| ultimae circumstantiae | last circumstances | fully particular act (D3-N14) |
+| implicat (non esse) | implies [implicat] (not to be) | = involves contradiction (D3-N14) |
+| praefinitio / praevisio | prefinition / foresight | divine decree / foreknowledge (D3-N14) |
+| natum esse (ad) | be born [natum] (to) | naturally apt (D3-N14) |
+| se habere indifferenter | hold itself indifferently | be neutral (D3-N14) |

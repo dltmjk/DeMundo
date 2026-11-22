@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N14",
+  "unit": "D3-N15",
   "part": 1,
-  "next_pdf_page": 401,
+  "next_pdf_page": 405,
   "completed": [
     "FM1",
     "FM2",
@@ -48,7 +48,8 @@
     "D3-N10",
     "D3-N11",
     "D3-N12",
-    "D3-N13"
+    "D3-N13",
+    "D3-N14"
   ],
-  "notes": "D3-N13 complete (PDF 393-401 = pp. 382-390), ending at Ereunius' '...neque leviter obturbetis, donec conquievero.' on p. 390. Knot XIV (margin 'Nodus XIV. Homines libero arbitrio gaudere', p. 390 = PDF 401) begins with 'Hoc itaque primum se menti obiicit: Esse in homine quandam vim discurrendi'. Knot XV starts p. 394 (PDF 405) per table. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N13.json)."
+  "notes": "D3-N14 complete (PDF 401-405 = pp. 390-394), ending at Ereunius' '...quare ex necessitate homo est prius indeterminatus.' on p. 394. Knot XV (margin 'Nodus XV. Libertatem non repugnare providentiae', p. 394 = PDF 405, beside Ereunius' 'Aio equidem') is taken to begin with Andabata's question 'Verum, ais in causis a priori contineri ut ad hoc singulare sese determinet?' just above it. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N14.json)."
 }
