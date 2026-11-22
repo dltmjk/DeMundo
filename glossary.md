@@ -1137,3 +1137,24 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | immane quantum | monstrously how much | (D3-N12) |
 | famulitium | service [famulitium] | (D3-N12) |
 | ostentatio | display [ostentationem] | (D3-N12) |
+| parergon | by-work [parergon] | side-issue (D3-N13) |
+| mixta (moles mixtorum) | mixed [bodies] [mixtorum] | (D3-N13) |
+| bolis, bolidis | sounding-lead [bolidis] | (D3-N13) |
+| acceptum referre | credit [acceptum referant] | book-keeping idiom (D3-N13) |
+| evincere (ut/ne) | make it prevail [evicisses] | cf. convict (D3-N12) (D3-N13) |
+| praenotio | foreknowledge [praenotione] | cf. praecognitus = foreknown (D3-N13) |
+| commodum / commoditas | advantageous / advantage [commoditatem] | distinct from utilitas (D3-N13) |
+| abuti | use up [abutimur] | not moral abuse (D3-N13) |
+| defieri | be wanting [defieri] | (D3-N13) |
+| cicur / cicurare | tame / make tame | (D3-N13) |
+| situs (decay) | neglect [situ] | (D3-N13) |
+| incolatus | habitation [incolatui] | (D3-N13) |
+| praetendere | put forward [praetendimus] | as pretext (D3-N13) |
+| numerabilitas | countable number [numerabilitati] | (D3-N13) |
+| decempeda | ten-foot rod [decempedam] | (D3-N13) |
+| inferi | lower regions [inferos] | (D3-N13) |
+| ratio finis | character [rationem] of an end | scholastic (D3-N13) |
+| dominium / dominari | dominion / exercise dominion | (D3-N13) |
+| numen | deity [numinis] | (D3-N13) |
+| Imperator (summus) | Commander [Imperatori] | God (D3-N13) |
+| praecognitus | foreknown [praecogniti] | (D3-N13) |

@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N13",
+  "unit": "D3-N14",
   "part": 1,
-  "next_pdf_page": 393,
+  "next_pdf_page": 401,
   "completed": [
     "FM1",
     "FM2",
@@ -47,7 +47,8 @@
     "D3-N09",
     "D3-N10",
     "D3-N11",
-    "D3-N12"
+    "D3-N12",
+    "D3-N13"
   ],
-  "notes": "D3-N12 complete (part 2: PDF 388-393 = pp. 377-382). Knot XIII (margin 'Nodus XIII. Terram in usus hominum esse conditam') begins on p. 382 (PDF 393) with Asphalius' 'Te latet itaque hoc ipsum quod acceptas'; check the table of nodi (FM2) for where XIV starts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N12-p2.json)."
+  "notes": "D3-N13 complete (PDF 393-401 = pp. 382-390), ending at Ereunius' '...neque leviter obturbetis, donec conquievero.' on p. 390. Knot XIV (margin 'Nodus XIV. Homines libero arbitrio gaudere', p. 390 = PDF 401) begins with 'Hoc itaque primum se menti obiicit: Esse in homine quandam vim discurrendi'. Knot XV starts p. 394 (PDF 405) per table. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N13.json)."
 }
