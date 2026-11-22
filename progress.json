@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N15",
+  "unit": "D3-N16",
   "part": 1,
-  "next_pdf_page": 405,
+  "next_pdf_page": 413,
   "completed": [
     "FM1",
     "FM2",
@@ -49,7 +49,8 @@
     "D3-N11",
     "D3-N12",
     "D3-N13",
-    "D3-N14"
+    "D3-N14",
+    "D3-N15"
   ],
-  "notes": "D3-N14 complete (PDF 401-405 = pp. 390-394), ending at Ereunius' '...quare ex necessitate homo est prius indeterminatus.' on p. 394. Knot XV (margin 'Nodus XV. Libertatem non repugnare providentiae', p. 394 = PDF 405, beside Ereunius' 'Aio equidem') is taken to begin with Andabata's question 'Verum, ais in causis a priori contineri ut ad hoc singulare sese determinet?' just above it. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N14.json)."
+  "notes": "D3-N15 complete (PDF 405-412 = pp. 394-401), ending at Andabata's '...addita Iuno nusquam aberit.' on p. 401. Knot XVI (margin 'Nodus XVI. Cur res humanae videantur casu geri', p. 402 = PDF 413) begins with Asphalius' 'Hanc itaque non levem querelam hominum mitiga'. Knot XVII starts p. 424 per table, so XVI (~22 pp.) needs parts. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N15.json)."
 }

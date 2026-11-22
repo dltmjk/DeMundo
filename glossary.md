@@ -1172,3 +1172,18 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | praefinitio / praevisio | prefinition / foresight | divine decree / foreknowledge (D3-N14) |
 | natum esse (ad) | be born [natum] (to) | naturally apt (D3-N14) |
 | se habere indifferenter | hold itself indifferently | be neutral (D3-N14) |
+| repugnare | be repugnant | logical incompatibility (D3-N15) |
+| subsumptum | subsumption | minor premise (D3-N15) |
+| significata vocis | significations of the word | terminist logic (D3-N15) |
+| exire in actum | go out into act | (D3-N15) |
+| per sua essentialia | through its essentials | vs per accidens (D3-N15) |
+| librare / residere (in partem) | weigh / settle (on a side) | balance image of deliberation (D3-N15) |
+| habitus | habit | Aristotelian hexis (D3-N15) |
+| praehaberi | be pre-had | pre-contained in God (D3-N15) |
+| fatalitas | fatality | Stoic fate (D3-N15) |
+| exercitium (libertatis) | exercise | (D3-N15) |
+| influi (formae) | be flowed in [influi] | scholastic influxus (D3-N15) |
+| consultatio / deliberatio | consultation / deliberation | (D3-N15) |
+| indifferentia | indifference | liberty of indifference (D3-N15) |
+| aestimativa | the estimative | internal sense (D3-N15) |
+| spiritus (animales) | spirits | Galenic animal spirits (D3-N15) |
