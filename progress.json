@@ -1,7 +1,7 @@
 {
-  "unit": "D3-N19",
-  "part": 1,
-  "next_pdf_page": 454,
+  "unit": null,
+  "part": null,
+  "next_pdf_page": null,
   "completed": [
     "FM1",
     "FM2",
@@ -56,7 +56,9 @@
     "D3-N16-p3",
     "D3-N16",
     "D3-N17",
-    "D3-N18"
+    "D3-N18",
+    "D3-N19"
   ],
-  "notes": "D3-N18 complete (PDF 446-454 = pp. 435-443), ending mid-speech of Ereunius at '...mundum, videlicet, ex necessitate finem habiturum.' on p. 443. Knot XIX (Quando finis mundi sit futurus?) begins on p. 443 (PDF 454) with Ereunius' next sentence 'Quando inquies? Nescio cum enim ex animorum ratione...' (margin 'Nodus XIX' beside '(Horum autem quis sit...'); start the row with '[Ereu., continuing]'. XIX is the last Knot: check where the book ends (PDF 475 total; may include an errata/privilege) and set finished:true after it. Offset +11 holds. Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json -> .docx + .md (JSON shape: see translations/D3-N18.json)."
+  "notes": "FINISHED. D3-N19 (PDF 454-457 = pp. 443-446) translated; the dialogue ends with 'FINIS.' on p. 446. PDF 458-475 are an untranslated 'Index rerum' (not part of the unit plan). Builder: NODE_PATH=$(npm root -g) node tools/build.js translations/<ID>.json.",
+  "finished": true
 }

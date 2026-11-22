@@ -1260,3 +1260,19 @@ Fixed English renderings used throughout. Read at the start of each run; add new
 | educibilis | able to be educed | eductio formarum (D3-N18) |
 | valde bonum | very good | Gen. 1:31 (D3-N18) |
 | scire posse appellant | call knowing a power [posse] | active potency (D3-N18) |
+| animi assumpti (e corporibus) | souls taken up [assumptorum] | the blessed; number of the elect (D3-N19) |
+| regnum intelligibile | intelligible kingdom | realm of intellects; Hierarchia (D3-N19) |
+| annulus perfectus | ring made perfect [annulo] | completed circle of God's works (D3-N19) |
+| magistra | Mistress [Magistram] | Theology as teacher (D3-N19) |
+| exitium | destruction [exitium] | (D3-N19) |
+| augurium / omen / oraculum / prophetia | augury / omen / oracle / prophecy | playful divination vocabulary (D3-N19) |
+| vates / vaticinari / furere | bard [vatem] / prophesy [vaticinari] / rave [furere] | Ecl. 9.33–34; prophetic furor (D3-N19) |
+| flumen (ignis) | stream [flumen] | fire as flux (D3-N19) |
+| crassus | gross [crassi] | dense (D3-N19) |
+| concoctio | concoction [concoctione] | Galenic (D3-N19) |
+| caput mortuum | caput mortuum | alchemical residue, kept in Latin (D3-N19) |
+| circulatio | circulation [circulatione] | alchemical reflux distillation (D3-N19) |
+| experiri | experience [experimur] | find by trial (D3-N19) |
+| habitacula / tentoria | dwellings / tents | 2 Cor. 5:1 (D3-N19) |
+| momenta (iis momentis) | moments [momentis] | time or weighty points, ambiguous (D3-N19) |
+| afflatus (solis) | breathings [afflatibus] | (D3-N19) |
